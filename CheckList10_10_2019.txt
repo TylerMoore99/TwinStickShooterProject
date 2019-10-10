@@ -1,0 +1,4 @@
+Mark - Wave system
+Tyler - Ammo Limit & Selection
+Jason - Level layout & asset creation
+Josh - Collectables? 
