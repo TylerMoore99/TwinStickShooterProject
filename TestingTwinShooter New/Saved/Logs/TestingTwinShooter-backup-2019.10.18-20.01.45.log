@@ -1,0 +1,1151 @@
+﻿Log file open, 10/18/19 20:54:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TestingTwinShooter
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.862242
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.307s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.18-19.54.40:457][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.18-19.54.40:457][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.10.18-19.54.40:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.18-19.54.40:458][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.18-19.54.40:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.10.18-19.54.40:459][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.10.18-19.54.40:560][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.18-19.54.40:561][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.18-19.54.40:562][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.18-19.54.40:563][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.40:563][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.18-19.54.40:564][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.18-19.54.40:565][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.18-19.54.40:565][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.40:565][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.18-19.54.40:565][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.18-19.54.40:573][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.18-19.54.40:573][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.18-19.54.41:077][  0]LogHAL: Display: Platform has ~ 8 GB [8470151168 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.18-19.54.41:080][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.10.18-19.54.41:080][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.18-19.54.41:080][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.41:080][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.18-19.54.41:080][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.18-19.54.41:080][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.41:080][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.18-19.54.41:080][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.41:080][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.18-19.54.41:081][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.41:081][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.18-19.54.41:082][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.18-19.54.41:083][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.41:083][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.18-19.54.41:084][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.18-19.54.41:101][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.18-19.54.41:101][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.10.18-19.54.41:136][  0]LogInit: Computer: DESKTOP-VFO0F4L
+[2019.10.18-19.54.41:136][  0]LogInit: User: aston
+[2019.10.18-19.54.41:136][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.18-19.54.41:136][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.18-19.54.41:138][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.10.18-19.54.41:138][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.18-19.54.41:138][  0]LogMemory: Process Physical Memory: 101.78 MB used, 101.79 MB peak
+[2019.10.18-19.54.41:138][  0]LogMemory: Process Virtual Memory: 90.96 MB used, 90.96 MB peak
+[2019.10.18-19.54.41:138][  0]LogMemory: Physical Memory: 3618.54 MB used,  4459.23 MB free, 8077.77 MB total
+[2019.10.18-19.54.41:138][  0]LogMemory: Virtual Memory: 4622.44 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.10.18-19.54.41:986][  0]LogInit: Using OS detected language (en-US).
+[2019.10.18-19.54.41:986][  0]LogInit: Using OS detected locale (en-GB).
+[2019.10.18-19.54.42:481][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.18-19.54.43:819][  0]LogStreaming: Display: Took  1.829s to InitEngineTextLocalization.
+[2019.10.18-19.54.43:837][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.18-19.54.44:801][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.18-19.54.44:801][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.18-19.54.47:687][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.18-19.54.47:687][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.18-19.54.47:843][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.10.18-19.54.47:843][  0]LogD3D11RHI:       6052/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.18-19.54.47:857][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.10.18-19.54.47:857][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.18-19.54.47:859][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.18-19.54.47:859][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.18-19.54.47:859][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.18-19.54.47:884][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.18-19.54.47:884][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.18-19.54.47:884][  0]LogWindows: EnumDisplayDevices:
+[2019.10.18-19.54.47:884][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.10.18-19.54.47:884][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.10.18-19.54.47:884][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.10.18-19.54.47:885][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.10.18-19.54.47:885][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2019.10.18-19.54.47:885][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.10.18-19.54.47:885][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.10.18-19.54.47:885][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.18-19.54.47:885][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.10.18-19.54.47:891][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.10.18-19.54.47:891][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.10.18-19.54.47:891][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.10.18-19.54.47:941][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.18-19.54.48:215][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.18-19.54.49:391][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.18-19.54.49:456][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.18-19.54.49:480][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.18-19.54.49:502][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.18-19.54.49:563][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.18-19.54.49:615][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.18-19.54.49:681][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.18-19.54.49:732][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.18-19.54.49:759][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.49:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.18-19.54.50:008][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.18-19.54.50:263][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.18-19.54.50:263][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.18-19.54.50:314][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.18-19.54.50:314][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.18-19.54.50:412][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.18-19.54.50:442][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.18-19.54.50:465][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.18-19.54.50:499][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.18-19.54.50:573][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.18-19.54.50:573][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.18-19.54.50:573][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.18-19.54.51:436][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Intermediate/Shaders/WorkingDirectory/6624/).
+[2019.10.18-19.54.51:436][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aston/AppData/Local/Temp/UnrealShaderWorkingDir/2756E5604020E40F75AC5E9300F3D460/'.
+[2019.10.18-19.54.51:451][  0]LogXGEController: Cleaning working directory: C:/Users/aston/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.18-19.54.51:451][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.18-19.54.51:451][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.18-19.54.51:451][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.18-19.54.55:647][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.18-19.54.55:896][  0]LogDerivedDataCache: Loaded boot cache 0.25s 71MB C:/Users/aston/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.10.18-19.54.55:896][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aston/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.10.18-19.54.55:896][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/aston/Documents/GitHub/TestingTwinShooter New/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.18-19.54.55:896][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.18-19.54.55:896][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/aston/Documents/GitHub/TestingTwinShooter New/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.18-19.54.55:896][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.18-19.54.56:057][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.18-19.54.56:057][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.18-19.54.56:057][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.18-19.54.56:072][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aston/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.18-19.54.56:072][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.18-19.54.56:072][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.18-19.54.56:205][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.18-19.54.56:318][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.18-19.54.56:465][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.18-19.54.57:727][  0]LogAssetRegistry: FAssetRegistry took 0.0598 seconds to start up
+[2019.10.18-19.55.01:302][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Door_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Frame_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Frame_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_ground_Moss_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:476][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_RockMesh_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_RockMesh_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Shelf_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Shelf_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Single_Tile_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Spark_Core.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Statue_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Statue_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_TableRound_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_TableRound_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/M_UE4Man_Body.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/M_UE4Man_ChestLogo.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Aluminum01.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile_PhysicsAsset.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile_Skeleton.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_O.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Textures/UE4Man_Logo_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Textures/UE4_LOGO_CARD.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.10.18-19.55.04:477][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.18-19.55.04:622][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.18-19.55.04:622][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.18-19.55.04:623][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.18-19.55.04:623][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.18-19.55.05:077][  0]LogNetVersion: TestingTwinShooter 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2802648783)
+[2019.10.18-19.55.10:641][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.197968 seconds
+[2019.10.18-19.55.10:665][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.10.18-19.55.10:665][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.10.18-19.55.10:665][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.18-19.55.29:792][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.18-19.55.29:863][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.18-19.55.32:366][  0]SourceControl: Source control is disabled
+[2019.10.18-19.55.32:375][  0]SourceControl: Source control is disabled
+[2019.10.18-19.55.32:473][  0]SourceControl: Source control is disabled
+[2019.10.18-19.55.32:533][  0]SourceControl: Source control is disabled
+[2019.10.18-19.55.34:759][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.18-19.55.35:074][  0]LogOcInput: OculusInput pre-init called
+[2019.10.18-19.55.36:354][  0]LogEngine: Initializing Engine...
+[2019.10.18-19.55.36:391][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.18-19.55.36:397][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.18-19.55.36:397][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.18-19.55.36:398][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.18-19.55.36:399][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2019.10.18-19.55.37:250][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.18-19.55.37:675][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.18-19.55.37:881][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.18-19.55.37:900][  0]LogInit: FAudioDevice initialized.
+[2019.10.18-19.55.37:900][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.18-19.55.37:977][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aston/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.10.18-19.55.38:000][  0]LogInit: Texture streaming: Enabled
+[2019.10.18-19.55.38:226][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.18-19.55.38:327][  0]LogInit: Transaction tracking system initialized
+[2019.10.18-19.55.38:717][  0]BlueprintLog: New page: Editor Load
+[2019.10.18-19.55.40:328][  0]LocalizationService: Localization service is disabled
+[2019.10.18-19.55.44:739][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/' took 0.04s
+[2019.10.18-19.55.44:739][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.18-19.55.44:739][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.18-19.55.44:740][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.18-19.55.44:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.18-19.55.44:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.18-19.55.44:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.18-19.55.44:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.18-19.55.57:832][  0]SourceControl: Source control is disabled
+[2019.10.18-19.55.57:868][  0]Cmd: MAP LOAD FILE="C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.18-19.55.57:883][  0]LightingResults: New page: Lighting Build
+[2019.10.18-19.55.58:042][  0]MapCheck: New page: Map Check
+[2019.10.18-19.55.58:042][  0]LightingResults: New page: Lighting Build
+[2019.10.18-19.56.01:480][  0]LogAIModule: Creating AISystem for world TestLevel
+[2019.10.18-19.56.03:633][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.18-19.56.03:820][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.18-19.56.03:821][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.487ms to complete.
+[2019.10.18-19.56.03:821][  0]LogFileHelpers: Loading map 'TestLevel' took 5.972
+[2019.10.18-19.56.05:758][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-19.56.05:796][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-19.56.05:824][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-19.56.05:842][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-19.56.05:982][  0]LogCollectionManager: Loaded 0 collections in 0.001646 seconds
+[2019.10.18-19.56.06:054][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Collections/' took 0.01s
+[2019.10.18-19.56.06:054][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Developers/aston/Collections/' took 0.01s
+[2019.10.18-19.56.06:054][  0]LogFileCache: Scanning file cache for directory 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Collections/' took 0.00s
+[2019.10.18-19.56.06:054][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.18-19.56.06:091][  0]LogContentBrowser: Native class hierarchy populated in 0.0360 seconds. Added 2651 classes and 620 folders.
+[2019.10.18-19.56.06:160][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.18-19.56.06:240][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:293][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:355][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:412][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:426][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:835][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.06:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-19.56.08:315][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.18-19.56.08:359][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.18-19.56.09:662][  0]LogSlate: Took 0.059991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.18-19.56.09:722][  0]LogSlate: Took 0.055201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.18-19.56.09:806][  0]LogSlate: Took 0.021462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.18-19.56.10:439][  0]LogRenderer: Reallocating scene render targets to support 1040x624 Format 10 NumSamples 1 (Frame:1).
+[2019.10.18-19.56.11:197][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.10.18-19.56.11:197][  0]LogLoad: (Engine Initialization) Total time: 117.57 seconds
+[2019.10.18-19.56.11:197][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.18-19.56.11:507][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.18-19.56.11:693][  0]LogSlate: Took 0.043944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.18-19.56.11:972][  4]LogAssetRegistry: Asset discovery search completed in 74.2676 seconds
+[2019.10.18-19.56.12:016][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.18-19.56.12:016][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2019.10.18-19.56.12:667][  6]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.18-19.56.26:413][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-19.56.27:074][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-19.56.27:132][112]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.18-19.56.27:155][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.18-19.56.27:158][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-19.56.27:175][112]PIE: New page: PIE session: TestLevel (18 Oct 2019 21:56:27)
+[2019.10.18-19.56.27:231][112]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2019.10.18-19.56.27:248][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017161s)
+[2019.10.18-19.56.27:251][112]LogAIModule: Creating AISystem for world TestLevel
+[2019.10.18-19.56.27:252][112]LogPlayLevel: PIE: World Init took: (0.003195s)
+[2019.10.18-19.56.27:252][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.021349s)
+[2019.10.18-19.56.27:362][112]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.18-19.56.27:373][112]LogInit: FAudioDevice initialized.
+[2019.10.18-19.56.27:444][112]LogLoad: Game class is 'TwinStickMode_C'
+[2019.10.18-19.56.27:479][112]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2019.10.18-20.56.27
+[2019.10.18-19.56.27:503][112]LogWorld: Bringing up level for play took: 0.023855
+[2019.10.18-19.56.27:603][112]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.10.18-19.56.27:790][112]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestLevel 1.269
+[2019.10.18-19.56.27:791][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.18-19.56.28:341][157]Cmd: LevelEditor.ToggleImmersive
+[2019.10.18-19.56.28:514][158]LogRenderer: Reallocating scene render targets to support 1420x852 Format 10 NumSamples 1 (Frame:47).
+[2019.10.18-19.56.28:587][159]LogRenderer: Reallocating scene render targets to support 1680x1012 Format 10 NumSamples 1 (Frame:49).
+[2019.10.18-19.56.28:589][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-19.56.41:244][653]LogBlueprintUserMessages: [Enemy_C_0] 20.0
+[2019.10.18-19.56.41:369][668]LogBlueprintUserMessages: [Enemy_C_0] 10.0
+[2019.10.18-19.56.41:673][704]LogBlueprintUserMessages: [Enemy_C_0] 0.0
+[2019.10.18-19.56.44:301][ 17]LogBlueprintUserMessages: [Enemy_C_1] 20.0
+[2019.10.18-19.56.44:585][ 51]LogBlueprintUserMessages: [Enemy_C_1] 10.0
+[2019.10.18-19.56.44:735][ 69]LogBlueprintUserMessages: [Enemy_C_1] 0.0
+[2019.10.18-19.56.51:152][839]LogBlueprintUserMessages: [Enemy_C_2] 20.0
+[2019.10.18-19.56.51:303][857]LogBlueprintUserMessages: [Enemy_C_2] 10.0
+[2019.10.18-19.56.51:502][881]LogBlueprintUserMessages: [Enemy_C_2] 0.0
+[2019.10.18-19.56.55:511][362]LogBlueprintUserMessages: [Enemy_C_3] 20.0
+[2019.10.18-19.56.56:278][454]LogBlueprintUserMessages: [Enemy_C_3] 10.0
+[2019.10.18-19.56.56:905][527]LogBlueprintUserMessages: [Enemy_C_3] 0.0
+[2019.10.18-19.57.01:922][129]LogBlueprintUserMessages: [Enemy_C_4] 20.0
+[2019.10.18-19.57.02:072][147]LogBlueprintUserMessages: [Enemy_C_4] 10.0
+[2019.10.18-19.57.02:180][160]LogBlueprintUserMessages: [Enemy_C_4] 0.0
+[2019.10.18-19.57.34:463][ 26]LogBlueprintUserMessages: [Enemy_C_5] 20.0
+[2019.10.18-19.57.34:949][ 84]LogBlueprintUserMessages: [Enemy_C_5] 10.0
+[2019.10.18-19.57.35:291][125]LogBlueprintUserMessages: [Enemy_C_5] 0.0
+[2019.10.18-19.57.36:115][224]LogBlueprintUserMessages: [Enemy_C_6] 20.0
+[2019.10.18-19.57.36:640][287]LogBlueprintUserMessages: [Enemy_C_6] 10.0
+[2019.10.18-19.57.37:016][332]LogBlueprintUserMessages: [Enemy_C_6] 0.0
+[2019.10.18-19.57.39:957][685]LogBlueprintUserMessages: [Enemy_C_7] 20.0
+[2019.10.18-19.57.40:058][697]LogBlueprintUserMessages: [Enemy_C_7] 10.0
+[2019.10.18-19.57.40:199][714]LogBlueprintUserMessages: [Enemy_C_7] 0.0
+[2019.10.18-19.57.45:844][391]LogBlueprintUserMessages: [Enemy_C_8] 20.0
+[2019.10.18-19.57.46:401][458]LogBlueprintUserMessages: [Enemy_C_8] 10.0
+[2019.10.18-19.57.46:802][506]LogBlueprintUserMessages: [Enemy_C_8] 0.0
+[2019.10.18-19.57.50:544][955]LogBlueprintUserMessages: [Enemy_C_9] 20.0
+[2019.10.18-19.57.50:903][998]LogBlueprintUserMessages: [Enemy_C_9] 10.0
+[2019.10.18-19.57.51:086][ 20]LogBlueprintUserMessages: [Enemy_C_9] 0.0
+[2019.10.18-19.57.54:096][381]LogBlueprintUserMessages: [Enemy_C_10] 20.0
+[2019.10.18-19.57.54:286][404]LogBlueprintUserMessages: [Enemy_C_10] 10.0
+[2019.10.18-19.57.54:603][442]LogBlueprintUserMessages: [Enemy_C_10] 0.0
+[2019.10.18-19.58.01:346][251]LogBlueprintUserMessages: [Enemy_C_11] 20.0
+[2019.10.18-19.58.01:788][304]LogBlueprintUserMessages: [Enemy_C_11] 10.0
+[2019.10.18-19.58.02:022][332]LogBlueprintUserMessages: [Enemy_C_11] 0.0
+[2019.10.18-19.58.06:773][902]LogBlueprintUserMessages: [Enemy_C_12] 20.0
+[2019.10.18-19.58.06:915][919]LogBlueprintUserMessages: [Enemy_C_12] 10.0
+[2019.10.18-19.58.07:382][975]LogBlueprintUserMessages: [Enemy_C_12] 0.0
+[2019.10.18-19.58.37:327][566]LogBlueprintUserMessages: [Enemy_C_13] 20.0
+[2019.10.18-19.58.39:780][859]LogBlueprintUserMessages: [BaseCharacter_C_0] 70.0
+[2019.10.18-19.58.46:450][659]LogBlueprintUserMessages: [Enemy_C_14] 20.0
+[2019.10.18-19.58.46:583][675]LogBlueprintUserMessages: [Enemy_C_14] 10.0
+[2019.10.18-19.58.47:032][729]LogBlueprintUserMessages: [Enemy_C_14] 0.0
+[2019.10.18-19.58.47:766][817]LogBlueprintUserMessages: [Enemy_C_15] 20.0
+[2019.10.18-19.58.47:916][835]LogBlueprintUserMessages: [Enemy_C_15] 10.0
+[2019.10.18-19.58.48:049][851]LogBlueprintUserMessages: [Enemy_C_15] 0.0
+[2019.10.18-19.58.50:684][167]LogBlueprintUserMessages: [Enemy_C_13] 10.0
+[2019.10.18-19.58.50:817][183]LogBlueprintUserMessages: [Enemy_C_13] 0.0
+[2019.10.18-19.58.51:343][246]LogBlueprintUserMessages: [Enemy_C_16] 20.0
+[2019.10.18-19.58.51:443][258]LogBlueprintUserMessages: [Enemy_C_16] 10.0
+[2019.10.18-19.58.51:785][299]LogBlueprintUserMessages: [Enemy_C_16] 0.0
+[2019.10.18-19.58.54:710][650]LogBlueprintUserMessages: [Enemy_C_17] 20.0
+[2019.10.18-19.58.54:844][666]LogBlueprintUserMessages: [Enemy_C_17] 10.0
+[2019.10.18-19.58.55:060][692]LogBlueprintUserMessages: [Enemy_C_17] 0.0
+[2019.10.18-19.58.58:578][114]LogBlueprintUserMessages: [Enemy_C_18] 20.0
+[2019.10.18-19.58.58:844][146]LogBlueprintUserMessages: [Enemy_C_18] 10.0
+[2019.10.18-19.58.59:069][173]LogBlueprintUserMessages: [Enemy_C_18] 0.0
+[2019.10.18-19.59.05:937][997]LogBlueprintUserMessages: [Enemy_C_19] 20.0
+[2019.10.18-19.59.06:170][ 25]LogBlueprintUserMessages: [Enemy_C_19] 10.0
+[2019.10.18-19.59.06:321][ 43]LogBlueprintUserMessages: [Enemy_C_19] 0.0
+[2019.10.18-19.59.08:113][258]LogBlueprintUserMessages: [Enemy_C_20] 20.0
+[2019.10.18-19.59.08:498][304]LogBlueprintUserMessages: [Enemy_C_20] 10.0
+[2019.10.18-19.59.08:799][340]LogBlueprintUserMessages: [Enemy_C_20] 0.0
+[2019.10.18-19.59.15:978][197]LogBlueprintUserMessages: [Enemy_C_21] 20.0
+[2019.10.18-19.59.16:203][224]LogBlueprintUserMessages: [Enemy_C_21] 10.0
+[2019.10.18-19.59.16:386][246]LogBlueprintUserMessages: [Enemy_C_21] 0.0
+[2019.10.18-19.59.17:877][422]LogBlueprintUserMessages: [Enemy_C_22] 20.0
+[2019.10.18-19.59.18:044][442]LogBlueprintUserMessages: [Enemy_C_22] 10.0
+[2019.10.18-19.59.18:222][460]LogBlueprintUserMessages: [Enemy_C_22] 0.0
+[2019.10.18-19.59.23:423][ 84]LogBlueprintUserMessages: [Enemy_C_23] 20.0
+[2019.10.18-19.59.23:590][104]LogBlueprintUserMessages: [Enemy_C_23] 10.0
+[2019.10.18-19.59.23:740][122]LogBlueprintUserMessages: [Enemy_C_23] 0.0
+[2019.10.18-19.59.30:624][946]LogBlueprintUserMessages: [Enemy_C_24] 20.0
+[2019.10.18-19.59.30:791][966]LogBlueprintUserMessages: [Enemy_C_24] 10.0
+[2019.10.18-19.59.33:017][233]LogBlueprintUserMessages: [Enemy_C_24] 0.0
+[2019.10.18-20.00.04:661][ 29]LogBlueprintUserMessages: [Enemy_C_25] 20.0
+[2019.10.18-20.00.05:254][100]LogBlueprintUserMessages: [Enemy_C_25] 10.0
+[2019.10.18-20.00.05:795][165]LogBlueprintUserMessages: [Enemy_C_25] 0.0
+[2019.10.18-20.00.07:728][397]LogBlueprintUserMessages: [Enemy_C_26] 20.0
+[2019.10.18-20.00.08:037][434]LogBlueprintUserMessages: [Enemy_C_26] 10.0
+[2019.10.18-20.00.08:278][463]LogBlueprintUserMessages: [Enemy_C_26] 0.0
+[2019.10.18-20.00.15:556][336]LogBlueprintUserMessages: [Enemy_C_27] 20.0
+[2019.10.18-20.00.15:981][387]LogBlueprintUserMessages: [Enemy_C_27] 10.0
+[2019.10.18-20.00.16:322][428]LogBlueprintUserMessages: [Enemy_C_27] 0.0
+[2019.10.18-20.00.19:589][820]LogBlueprintUserMessages: [Enemy_C_28] 20.0
+[2019.10.18-20.00.19:973][866]LogBlueprintUserMessages: [Enemy_C_28] 10.0
+[2019.10.18-20.00.20:323][908]LogBlueprintUserMessages: [Enemy_C_28] 0.0
+[2019.10.18-20.00.25:824][568]LogBlueprintUserMessages: [Enemy_C_29] 20.0
+[2019.10.18-20.00.26:382][635]LogBlueprintUserMessages: [Enemy_C_29] 10.0
+[2019.10.18-20.00.26:715][675]LogBlueprintUserMessages: [Enemy_C_29] 0.0
+[2019.10.18-20.00.30:950][183]LogBlueprintUserMessages: [Enemy_C_30] 20.0
+[2019.10.18-20.00.31:342][230]LogBlueprintUserMessages: [Enemy_C_30] 10.0
+[2019.10.18-20.00.35:896][774]LogBlueprintUserMessages: [BaseCharacter_C_0] 40.0
+[2019.10.18-20.00.40:680][348]LogBlueprintUserMessages: [Enemy_C_31] 20.0
+[2019.10.18-20.00.40:855][369]LogBlueprintUserMessages: [Enemy_C_31] 10.0
+[2019.10.18-20.00.40:980][384]LogBlueprintUserMessages: [Enemy_C_31] 0.0
+[2019.10.18-20.00.41:463][442]LogBlueprintUserMessages: [Enemy_C_30] 0.0
+[2019.10.18-20.00.41:708][471]LogBlueprintUserMessages: [Enemy_C_32] 20.0
+[2019.10.18-20.00.48:808][323]LogBlueprintUserMessages: [Enemy_C_34] 20.0
+[2019.10.18-20.00.48:984][344]LogBlueprintUserMessages: [Enemy_C_34] 10.0
+[2019.10.18-20.00.49:117][360]LogBlueprintUserMessages: [Enemy_C_34] 0.0
+[2019.10.18-20.00.49:384][392]LogBlueprintUserMessages: [Enemy_C_33] 20.0
+[2019.10.18-20.00.49:525][409]LogBlueprintUserMessages: [Enemy_C_33] 10.0
+[2019.10.18-20.00.54:335][986]LogBlueprintUserMessages: [Enemy_C_32] 10.0
+[2019.10.18-20.00.56:989][278]LogCharacterMovement: Enemy_C_32 is stuck and failed to move! Velocity: X=-71.00 Y=258.66 Z=0.00 Location: X=-124.84 Y=895.40 Z=253.88 Normal: X=0.70 Y=-0.71 Z=0.00 PenetrationDepth:4.253 Actor:Pistol_C_0 Component:GunMesh BoneName:None (0 other events since notify)
+[2019.10.18-20.00.58:666][479]LogBlueprintUserMessages: [Enemy_C_33] 0.0
+[2019.10.18-20.00.58:799][495]LogBlueprintUserMessages: [Enemy_C_35] 20.0
+[2019.10.18-20.00.58:915][509]LogBlueprintUserMessages: [Enemy_C_35] 10.0
+[2019.10.18-20.00.59:015][521]LogBlueprintUserMessages: [Enemy_C_35] 0.0
+[2019.10.18-20.00.59:174][540]LogBlueprintUserMessages: [Enemy_C_32] 0.0
+[2019.10.18-20.01.03:559][ 66]LogBlueprintUserMessages: [Enemy_C_36] 20.0
+[2019.10.18-20.01.03:851][101]LogBlueprintUserMessages: [Enemy_C_36] 10.0
+[2019.10.18-20.01.03:976][116]LogBlueprintUserMessages: [Enemy_C_36] 0.0
+[2019.10.18-20.01.04:452][173]LogBlueprintUserMessages: [Enemy_C_37] 20.0
+[2019.10.18-20.01.04:652][197]LogBlueprintUserMessages: [Enemy_C_37] 10.0
+[2019.10.18-20.01.04:868][223]LogBlueprintUserMessages: [Enemy_C_37] 0.0
+[2019.10.18-20.01.11:597][ 30]LogBlueprintUserMessages: [Enemy_C_38] 20.0
+[2019.10.18-20.01.11:722][ 45]LogBlueprintUserMessages: [Enemy_C_38] 10.0
+[2019.10.18-20.01.11:847][ 60]LogBlueprintUserMessages: [Enemy_C_38] 0.0
+[2019.10.18-20.01.13:672][279]LogBlueprintUserMessages: [Enemy_C_39] 20.0
+[2019.10.18-20.01.13:947][312]LogBlueprintUserMessages: [Enemy_C_39] 10.0
+[2019.10.18-20.01.14:306][355]LogBlueprintUserMessages: [Enemy_C_39] 0.0
+[2019.10.18-20.01.21:057][165]LogBlueprintUserMessages: [Enemy_C_40] 20.0
+[2019.10.18-20.01.21:465][214]LogBlueprintUserMessages: [Enemy_C_40] 10.0
+[2019.10.18-20.01.21:731][246]LogBlueprintUserMessages: [Enemy_C_40] 0.0
+[2019.10.18-20.01.36:384][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.18-20.01.36:384][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-20.01.36:448][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-20.01.36:449][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Maps/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Maps/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.18-20.01.36:541][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-20.01.36:581][  3]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.18-20.01.37:682][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-20.01.40:278][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-20.01.40:495][409]LogSlate: Window 'TestingTwinShooter - Unreal Editor' being destroyed
+[2019.10.18-20.01.40:496][409]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.18-20.01.40:872][410]Cmd: QUIT_EDITOR
+[2019.10.18-20.01.41:252][410]LogExit: Preparing to exit.
+[2019.10.18-20.01.42:293][410]LogExit: Editor shut down
+[2019.10.18-20.01.42:293][410]LogExit: Transaction tracking system shut down
+[2019.10.18-20.01.43:079][410]LogExit: Object subsystem successfully closed.
+[2019.10.18-20.01.43:116][410]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.18-20.01.43:120][410]LogD3D11RHI: Shutdown
+[2019.10.18-20.01.43:120][410]LogD3D11RHI: CleanupD3DDevice
+[2019.10.18-20.01.43:121][410]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.18-20.01.43:558][410]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.10.18-20.01.43:558][410]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.10.18-20.01.43:559][410]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.10.18-20.01.43:559][410]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.10.18-20.01.43:559][410]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.10.18-20.01.43:560][410]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.10.18-20.01.43:560][410]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.10.18-20.01.43:560][410]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.10.18-20.01.43:560][410]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.10.18-20.01.43:561][410]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.10.18-20.01.43:561][410]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.10.18-20.01.43:581][410]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.10.18-20.01.43:582][410]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.10.18-20.01.43:595][410]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.10.18-20.01.43:596][410]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.10.18-20.01.43:620][410]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.10.18-20.01.43:620][410]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.10.18-20.01.43:620][410]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.10.18-20.01.43:620][410]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.10.18-20.01.43:620][410]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.10.18-20.01.43:620][410]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.10.18-20.01.43:620][410]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.10.18-20.01.43:620][410]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.10.18-20.01.43:620][410]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.10.18-20.01.43:620][410]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.10.18-20.01.43:621][410]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.10.18-20.01.43:631][410]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.10.18-20.01.43:631][410]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.10.18-20.01.43:655][410]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.10.18-20.01.43:656][410]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.10.18-20.01.43:656][410]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.10.18-20.01.43:664][410]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.10.18-20.01.43:664][410]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.10.18-20.01.43:665][410]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.10.18-20.01.43:665][410]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.10.18-20.01.43:665][410]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.10.18-20.01.44:349][410]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.10.18-20.01.44:350][410]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.10.18-20.01.44:350][410]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.10.18-20.01.44:350][410]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.10.18-20.01.44:350][410]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.10.18-20.01.44:350][410]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.10.18-20.01.44:353][410]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.10.18-20.01.44:353][410]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.10.18-20.01.44:353][410]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.10.18-20.01.44:353][410]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.10.18-20.01.44:353][410]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.10.18-20.01.44:353][410]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.10.18-20.01.44:353][410]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.10.18-20.01.44:353][410]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.10.18-20.01.44:354][410]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.10.18-20.01.44:354][410]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.10.18-20.01.44:354][410]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.10.18-20.01.44:354][410]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.10.18-20.01.44:354][410]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.10.18-20.01.44:372][410]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.10.18-20.01.44:372][410]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.10.18-20.01.44:387][410]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.10.18-20.01.44:387][410]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.10.18-20.01.44:441][410]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.10.18-20.01.44:441][410]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.10.18-20.01.44:445][410]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.10.18-20.01.44:478][410]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.10.18-20.01.44:478][410]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.10.18-20.01.44:494][410]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.10.18-20.01.44:506][410]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.10.18-20.01.44:512][410]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.10.18-20.01.44:512][410]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.10.18-20.01.44:512][410]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.10.18-20.01.44:516][410]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.10.18-20.01.44:542][410]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.10.18-20.01.44:542][410]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.10.18-20.01.44:542][410]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.10.18-20.01.44:546][410]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.10.18-20.01.44:546][410]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.10.18-20.01.44:547][410]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.10.18-20.01.44:555][410]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.10.18-20.01.44:555][410]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.10.18-20.01.44:555][410]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.10.18-20.01.44:555][410]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.10.18-20.01.44:555][410]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.10.18-20.01.44:555][410]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.10.18-20.01.44:555][410]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.10.18-20.01.44:555][410]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.10.18-20.01.44:555][410]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.10.18-20.01.44:555][410]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.10.18-20.01.44:556][410]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.10.18-20.01.44:556][410]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.10.18-20.01.44:556][410]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.10.18-20.01.44:556][410]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.10.18-20.01.44:556][410]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.10.18-20.01.44:565][410]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.10.18-20.01.44:602][410]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.10.18-20.01.44:603][410]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.10.18-20.01.44:603][410]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.10.18-20.01.44:603][410]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.10.18-20.01.44:603][410]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.10.18-20.01.44:603][410]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.10.18-20.01.44:603][410]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.10.18-20.01.44:603][410]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.10.18-20.01.44:604][410]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.10.18-20.01.44:604][410]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.10.18-20.01.44:604][410]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.10.18-20.01.44:604][410]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.10.18-20.01.44:604][410]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.10.18-20.01.44:604][410]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.10.18-20.01.44:605][410]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.10.18-20.01.44:605][410]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.10.18-20.01.44:605][410]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.10.18-20.01.44:632][410]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.10.18-20.01.44:632][410]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.10.18-20.01.44:632][410]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.10.18-20.01.44:633][410]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.10.18-20.01.44:706][410]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.10.18-20.01.44:719][410]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.10.18-20.01.44:729][410]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.10.18-20.01.44:729][410]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.10.18-20.01.44:729][410]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.18-20.01.44:729][410]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.18-20.01.44:729][410]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.18-20.01.44:729][410]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.18-20.01.44:729][410]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.18-20.01.44:729][410]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.18-20.01.44:729][410]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.18-20.01.44:740][410]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.18-20.01.44:740][410]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.18-20.01.44:741][410]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.18-20.01.44:741][410]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.10.18-20.01.44:741][410]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.10.18-20.01.44:741][410]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.10.18-20.01.44:741][410]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.10.18-20.01.44:741][410]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.10.18-20.01.44:741][410]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.10.18-20.01.44:755][410]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.10.18-20.01.44:755][410]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.10.18-20.01.44:755][410]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.10.18-20.01.44:755][410]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.10.18-20.01.44:755][410]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.10.18-20.01.44:756][410]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.10.18-20.01.44:756][410]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.18-20.01.44:756][410]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.18-20.01.44:858][410]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.18-20.01.44:959][410]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.10.18-20.01.44:959][410]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.10.18-20.01.44:959][410]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.10.18-20.01.44:960][410]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.10.18-20.01.44:960][410]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.10.18-20.01.44:960][410]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.10.18-20.01.44:982][410]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.10.18-20.01.44:984][410]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.10.18-20.01.44:984][410]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.10.18-20.01.44:984][410]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.10.18-20.01.44:985][410]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.10.18-20.01.44:985][410]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.10.18-20.01.44:988][410]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.10.18-20.01.44:988][410]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.18-20.01.44:988][410]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.10.18-20.01.44:988][410]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.10.18-20.01.44:988][410]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.10.18-20.01.44:988][410]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.10.18-20.01.44:988][410]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.10.18-20.01.45:003][410]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.10.18-20.01.45:010][410]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.10.18-20.01.45:011][410]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.10.18-20.01.45:011][410]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.10.18-20.01.45:023][410]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.10.18-20.01.45:023][410]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.10.18-20.01.45:023][410]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.10.18-20.01.45:023][410]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.10.18-20.01.45:023][410]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.10.18-20.01.45:037][410]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.10.18-20.01.45:037][410]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.10.18-20.01.45:054][410]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.10.18-20.01.45:054][410]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.10.18-20.01.45:054][410]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.10.18-20.01.45:054][410]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.10.18-20.01.45:054][410]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.10.18-20.01.45:054][410]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.10.18-20.01.45:071][410]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.10.18-20.01.45:071][410]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.10.18-20.01.45:096][410]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.10.18-20.01.45:096][410]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.10.18-20.01.45:102][410]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.10.18-20.01.45:103][410]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.10.18-20.01.45:118][410]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.10.18-20.01.45:142][410]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.10.18-20.01.45:142][410]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.10.18-20.01.45:142][410]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.10.18-20.01.45:142][410]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.10.18-20.01.45:142][410]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.10.18-20.01.45:231][410]LogDerivedDataCache: Shutdown
+[2019.10.18-20.01.45:231][410]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.10.18-20.01.45:231][410]LogXGEController: Cleaning working directory: C:/Users/aston/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.18-20.01.45:231][410]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.10.18-20.01.45:232][410]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.10.18-20.01.45:232][410]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.10.18-20.01.45:232][410]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.10.18-20.01.45:246][410]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.10.18-20.01.45:246][410]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.10.18-20.01.45:264][410]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.10.18-20.01.45:264][410]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.10.18-20.01.45:264][410]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.10.18-20.01.45:264][410]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.10.18-20.01.45:265][410]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.10.18-20.01.45:265][410]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.10.18-20.01.45:265][410]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.10.18-20.01.45:265][410]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.10.18-20.01.45:265][410]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.10.18-20.01.45:265][410]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.10.18-20.01.45:265][410]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.10.18-20.01.45:267][410]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.10.18-20.01.45:267][410]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.10.18-20.01.45:267][410]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.10.18-20.01.45:267][410]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.10.18-20.01.45:268][410]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.10.18-20.01.45:270][410]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.10.18-20.01.45:270][410]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.10.18-20.01.45:272][410]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.10.18-20.01.45:272][410]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.10.18-20.01.45:289][410]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.10.18-20.01.45:289][410]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.10.18-20.01.45:289][410]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.10.18-20.01.45:290][410]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.10.18-20.01.45:290][410]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.10.18-20.01.45:291][410]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.10.18-20.01.45:291][410]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.10.18-20.01.45:307][410]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.10.18-20.01.45:324][410]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.10.18-20.01.45:346][410]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.10.18-20.01.45:346][410]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.18-20.01.45:346][410]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC63643AB-4903-553A-FC62-1D8D8AC1069F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=e9d768ae4fe3f8ec894a24a5422a4db9%7C4835b204c06a4684975ceabc0cd25d20%7Cd8a69adf-ef88-40fd-817e-edfb9cf8345e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.18-20.01.45:373][410]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.10.18-20.01.45:378][410]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.10.18-20.01.45:378][410]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.10.18-20.01.45:378][410]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.10.18-20.01.45:378][410]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.10.18-20.01.45:378][410]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.10.18-20.01.45:378][410]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.10.18-20.01.45:378][410]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.10.18-20.01.45:379][410]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.18-20.01.45:379][410]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.10.18-20.01.45:379][410]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.10.18-20.01.45:380][410]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.10.18-20.01.45:396][410]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.10.18-20.01.45:400][410]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.10.18-20.01.45:402][410]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.10.18-20.01.45:403][410]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.10.18-20.01.45:403][410]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.10.18-20.01.45:403][410]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.10.18-20.01.45:404][410]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.10.18-20.01.45:418][410]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.10.18-20.01.45:418][410]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.10.18-20.01.45:418][410]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.10.18-20.01.45:418][410]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.10.18-20.01.45:418][410]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.10.18-20.01.45:418][410]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.10.18-20.01.45:419][410]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.10.18-20.01.45:419][410]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.10.18-20.01.45:419][410]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.10.18-20.01.45:419][410]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.10.18-20.01.45:448][410]LogExit: Exiting.
+[2019.10.18-20.01.45:452][410]Log file closed, 10/18/19 21:01:45
