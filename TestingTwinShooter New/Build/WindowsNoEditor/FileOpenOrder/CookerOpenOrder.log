@@ -1,0 +1,597 @@
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 0
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Aim_Space_Hip.uasset" 1
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 2
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 3
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 4
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 5
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 6
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 7
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Death_1.uasset" 8
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Death_2.uasset" 9
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Death_3.uasset" 10
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Death_Ironsights_1.uasset" 11
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Death_Ironsights_2.uasset" 12
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 13
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 14
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 15
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 16
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Hit_React_4.uasset" 17
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Idle_Pistol.uasset" 18
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 19
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 20
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Prone_Death_1.uasset" 21
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Prone_Death_2.uasset" 22
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Prone_Fire_1.uasset" 23
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Prone_Fire_2.uasset" 24
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Prone_Idle.uasset" 25
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 26
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 27
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Prone_To_Stand.uasset" 28
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Reload_Pistol.uasset" 29
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 30
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 31
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 32
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 33
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 34
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 35
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Stand_To_Prone.uasset" 36
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 37
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 38
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 39
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/Background_MenuV2.uasset" 40
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/Continue.uasset" 41
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/Controls.uasset" 42
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/Quit.uasset" 43
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/swat_Skeleton.uasset" 44
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/zombie_Anim.uasset" 45
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/HeartBeat1.uasset" 46
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Basic_Wall.uasset" 47
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/Pillar_50x500.uasset" 48
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/Wall_400x300.uasset" 49
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/Wall_400x400.uasset" 50
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/Wall_500x500.uasset" 51
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 52
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 53
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Collapse01.uasset" 54
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Collapse02.uasset" 55
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Explosion01.uasset" 56
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Explosion02.uasset" 57
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Fire01.uasset" 58
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Fire_Sparks01.uasset" 59
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Light01.uasset" 60
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Light01_Cue.uasset" 61
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Light02.uasset" 62
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Light02_Cue.uasset" 63
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Smoke01.uasset" 64
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Starter_Birds01.uasset" 65
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Starter_Music01.uasset" 66
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Starter_Wind05.uasset" 67
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Starter_Wind06.uasset" 68
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Steam01.uasset" 69
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Explosion_Cue.uasset" 70
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Burst_M.uasset" 71
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/Materials/M_Burst.uasset" 72
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 73
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 74
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 75
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 76
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 77
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/P_Explosion.uasset" 78
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 79
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 80
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 81
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/Materials/M_Spark.uasset" 82
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Bush_D.uasset" 83
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Bush_N.uasset" 84
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_Bush.uasset" 85
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_Bush.uasset" 86
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Chair_M.uasset" 87
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Chair_N.uasset" 88
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_Chair.uasset" 89
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_Couch.uasset" 90
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Glass.uasset" 91
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Door_M.uasset" 92
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_Door.uasset" 93
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_Door.uasset" 94
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 95
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 96
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 97
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 98
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_Rock.uasset" 99
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_Rock.uasset" 100
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_Shelf.uasset" 101
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_Shelf.uasset" 102
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Basic_Floor.uasset" 103
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_Stairs.uasset" 104
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Cone.uasset" 105
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 106
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 107
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Pipe.uasset" 108
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 109
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 110
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Plane.uasset" 111
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Torus.uasset" 112
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Trim.uasset" 113
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 114
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 115
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 116
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Tube.uasset" 117
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 118
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 119
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 120
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 121
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 122
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 123
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 124
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 125
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 126
+"../../../Engine/Content/BasicShapes/Cone.uasset" 127
+"../../../Engine/Content/BasicShapes/Plane.uasset" 128
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 129
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 130
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 131
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 132
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 133
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 134
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 135
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 136
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 137
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 138
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 139
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 140
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 141
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 142
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 143
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 144
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 145
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 146
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 147
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 148
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 149
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 150
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 151
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 152
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 153
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 154
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 155
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 156
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 157
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 158
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 159
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 160
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 161
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 162
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 163
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 164
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 165
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 166
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 167
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 168
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 169
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 170
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 171
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 172
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 173
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 174
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 175
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 176
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 177
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 178
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 179
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 180
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 181
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 182
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 183
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 184
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 185
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 186
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 187
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 188
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 189
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 190
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 191
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 192
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 193
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 194
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 195
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 196
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 197
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 198
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 199
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 200
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 201
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 202
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 203
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 204
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 205
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 206
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 207
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 208
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 209
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 210
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 211
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 212
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 213
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 214
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 215
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 216
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 217
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 218
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 219
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 220
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 221
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 222
+"../../../Engine/Content/EngineResources/Black.uasset" 223
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 224
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 225
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 226
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 227
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 228
+"../../../Engine/Content/EngineSounds/Master.uasset" 229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 231
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 232
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 233
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 234
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 235
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 236
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 237
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 238
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 239
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 240
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 241
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 242
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 243
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 244
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 245
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 246
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 247
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 248
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 249
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 250
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 251
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 252
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 253
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 254
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 255
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 256
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 257
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 258
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 259
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 260
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 261
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 262
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 263
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 264
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 265
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 266
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 267
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 268
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 269
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 270
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 271
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 272
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 273
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 274
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 275
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 276
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 277
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 278
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 279
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 280
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 281
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Shooting.uasset" 282
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Shooting_Montage.uasset" 283
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Death_From_The_Back.uasset" 284
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Falling_Back_Death.uasset" 285
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Pistol_Idle.uasset" 286
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Pistol_Run.uasset" 287
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Pistol_Run_Backward.uasset" 288
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Pistol_Strafe_Left.uasset" 289
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Pistol_Strafe_Right.uasset" 290
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/CharacterBlendSpace.uasset" 291
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 292
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/CharacterAnimationBlueprint.uasset" 293
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/IDamageable.uasset" 294
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Materials/BulletMat.uasset" 295
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 296
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/Splat_Sound_Effect.uasset" 297
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Projectile.uasset" 298
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/Pistol_-_Sound_Effect.uasset" 299
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/DamageNumbers.uasset" 300
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Projectile_Pistol.uasset" 301
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/GunBase.uasset" 302
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Metal_Steel.uasset" 303
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Assets/pistol.uasset" 304
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pistol_2.uasset" 305
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/Rifle.uasset" 306
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Projectile_Rifle.uasset" 307
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Assets/rifle.uasset" 308
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Rifle-2.uasset" 309
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/Shotgun.uasset" 310
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Projectile_Shotgun.uasset" 311
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Assets/GreyMetal.uasset" 312
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Assets/Metal.uasset" 313
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Assets/Wood.uasset" 314
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Assets/shotgun.uasset" 315
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/ShotGunWeapo.uasset" 316
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Zombie_Attack.uasset" 317
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/Zombie_Running.uasset" 318
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/EnemyBlendSpace.uasset" 319
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Animation/EnemyAnimationBlueprint_Child.uasset" 320
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/EnemyAI.uasset" 321
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Meshes/lambert1.uasset" 322
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Meshes/Bullet_Pickup.uasset" 323
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/PowerUP.uasset" 324
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/PowerUpCue.uasset" 325
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Ammo.uasset" 326
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Cube.uasset" 327
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Freeze.uasset" 328
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Meshes/Health_Pickup.uasset" 329
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/blood-frame-png-2-original.uasset" 330
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/lowhealthHUD.uasset" 331
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Health.uasset" 332
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/GunPickup.uasset" 333
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/WeaponUI_Pistol.uasset" 334
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/PistolHUD.uasset" 335
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/WeaponUI_rifle.uasset" 336
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/RifleHUD.uasset" 337
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/WeaponUI_Shotgun.uasset" 338
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/ShotgunHUD.uasset" 339
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Rifle.uasset" 340
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Shotgun.uasset" 341
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Meshes/Syringe_Pickup.uasset" 342
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Syringe.uasset" 343
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/SubUV_Function.uasset" 344
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Blood_Splat/Splatters_T.uasset" 345
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Blood_Splat/water_nrm.uasset" 346
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Blood_Splat/Splatter_Decal.uasset" 347
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Blood_Splat/Splatter_M.uasset" 348
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Blood_Splat/Blood_Splat_P.uasset" 349
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Zombie_diffuse.uasset" 350
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Zombie_normal.uasset" 351
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Zombie_specular.uasset" 352
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Zombie_COL.uasset" 353
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/zombie_PhysicsAsset.uasset" 354
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/zombie.uasset" 355
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/DamageTaken_1.uasset" 356
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/DamageTaken_2.uasset" 357
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/DamageTaken_3.uasset" 358
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/DamageTaken_4.uasset" 359
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/DamageTaken_5.uasset" 360
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/DamageTaken_6.uasset" 361
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/LowHealth.uasset" 362
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/ZombieGroan_1.uasset" 363
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/ZombieGroan_2.uasset" 364
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/ZombieGroan_3.uasset" 365
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/SC_Zombie.uasset" 366
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Enemy.uasset" 367
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/EnemySpawner_Wave1.uasset" 368
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Spawn_System/SpawnPoint.uasset" 369
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/RoundChange.uasset" 370
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/TwinStickMode.uasset" 371
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Health.uasset" 372
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/ExitGame.uasset" 373
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/ExitGamePressed.uasset" 374
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/Paused.uasset" 375
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/ResumeGame.uasset" 376
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/ResumeGamePressed.uasset" 377
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/Pause-Widget.uasset" 378
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/KillUICounter.uasset" 379
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/WaveUI.uasset" 380
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/WeaponUI.uasset" 381
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/TwinStickHUD.uasset" 382
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Soldier_Body_diffuse.uasset" 383
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Soldier_Body_normal.uasset" 384
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Soldier_Body_specular.uasset" 385
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Soldier_body1.uasset" 386
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Soldier_head_diffuse.uasset" 387
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Soldier_head_normal.uasset" 388
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Soldier_head_specular.uasset" 389
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/Soldier_head6.uasset" 390
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/swat_PhysicsAsset.uasset" 391
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Character/swat.uasset" 392
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UI/YouDiedHUD.uasset" 393
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/BaseCharacter.uasset" 394
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 395
+"../../../Engine/Content/BasicShapes/Cube.uasset" 396
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Data_Objective/Data_BP.uasset" 397
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Data_Objective/DataSpawnPoint.uasset" 398
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 399
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 400
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 401
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 402
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 403
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 404
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 405
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 406
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 407
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Pickups/Pickup.uasset" 408
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Maps/JasonLevel_BuiltData.uasset" 409
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 410
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 411
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 412
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Maps/JasonLevel.umap" 413
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/MainMenu.uasset" 414
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/Settings.uasset" 415
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/SettingsPressed.uasset" 416
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/StartGame.uasset" 417
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/StartGamePressed.uasset" 418
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/MM-Widget.uasset" 419
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Maps/MainMenu.umap" 420
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/MainMenuButton.uasset" 421
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/MainMenuButtonPressed.uasset" 422
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/SettingsBackground.uasset" 423
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Blueprints/Menu/MM_Settings.uasset" 424
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Maps/Settings.umap" 425
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Maps/TestLevel_BuiltData.uasset" 426
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Sounds/TylerLevelMusic.uasset" 427
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Maps/TestLevel.umap" 428
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 429
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 430
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 431
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 432
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 433
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Hit_React_1.uasset" 434
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Hit_React_2.uasset" 435
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Hit_React_3.uasset" 436
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 437
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 438
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 439
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 440
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 441
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 442
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 443
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 444
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 445
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 446
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 447
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 448
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 449
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 450
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 451
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 452
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 453
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 454
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 455
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 456
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 457
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 458
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 459
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 460
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 461
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 462
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/AnimStarterPack/Showcase.umap" 463
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 464
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 465
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 466
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 467
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 468
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 469
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 470
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 471
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 472
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 473
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 474
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 475
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_AssetPlatform.uasset" 476
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 477
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 478
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 479
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 480
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 481
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 482
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 483
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 484
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Maps/Advanced_Lighting.umap" 485
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 486
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 487
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 488
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Metal_Copper.uasset" 489
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 490
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/Floor_400x400.uasset" 491
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 492
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_Chair.uasset" 493
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_Statue.uasset" 494
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_Statue.uasset" 495
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_TableRound.uasset" 496
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_TableRound.uasset" 497
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Maps/Minimal_Default.umap" 498
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Fire01_Cue.uasset" 499
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 500
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 501
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 502
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 503
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/P_Fire.uasset" 504
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 505
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Smoke01_Cue.uasset" 506
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/P_Smoke.uasset" 507
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 508
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 509
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/P_Sparks.uasset" 510
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 511
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Steam01_Cue.uasset" 512
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/P_Steam_Lit.uasset" 513
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 514
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_Lamp.uasset" 515
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 516
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 517
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 518
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 519
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 520
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 521
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 522
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 523
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 524
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 525
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 526
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 527
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 528
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 529
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 530
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 531
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 532
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 533
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 534
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 535
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 536
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 537
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 538
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 539
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 540
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 541
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 542
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 543
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 544
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 545
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Gradinet_01.uasset" 546
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 547
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 548
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 549
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 550
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 551
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 552
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 553
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Ground_Grass.uasset" 554
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 555
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Ground_Moss.uasset" 556
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 557
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Metal_Gold.uasset" 558
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Metal_Rust.uasset" 559
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 560
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 561
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 562
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Rock_Slate.uasset" 563
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 564
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 565
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 566
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 567
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Tech_Panel.uasset" 568
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Water_Lake.uasset" 569
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Water_Ocean.uasset" 570
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 571
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 572
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 573
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Wood_Oak.uasset" 574
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Materials/M_Wood_Pine.uasset" 575
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/Wall_400x200.uasset" 576
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 577
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 578
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Collapse_Cue.uasset" 579
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 580
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 581
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 582
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 583
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/MaterialSphere.uasset" 584
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/Materials/M_Frame.uasset" 585
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_CornerFrame.uasset" 586
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_DoorFrame.uasset" 587
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_GlassWindow.uasset" 588
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_PillarFrame.uasset" 589
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_PillarFrame300.uasset" 590
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Props/SM_WindowFrame.uasset" 591
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 592
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Shapes/Shape_Sphere.uasset" 593
+"C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Maps/StarterMap.umap" 594
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 595
+"../../../Engine/Content/Maps/Entry.umap" 596

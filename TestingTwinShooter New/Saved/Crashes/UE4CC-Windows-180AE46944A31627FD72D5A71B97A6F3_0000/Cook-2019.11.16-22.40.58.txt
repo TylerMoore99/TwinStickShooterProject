@@ -1,0 +1,1437 @@
+Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+Not using cached read wrapper
+Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+Stats thread started at 0.180950
+Loaded GFSDK_Aftermath_Lib.x64.dll
+ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+Mounting plugin Paper2D
+Mounting plugin AISupport
+Mounting plugin LightPropagationVolume
+Mounting plugin ActorLayerUtilities
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin PerforceSourceControl
+Mounting plugin SubversionSourceControl
+Mounting plugin UObjectPlugin
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin AssetManagerEditor
+Mounting plugin CryptoKeys
+Mounting plugin DataValidation
+Mounting plugin FacialAnimation
+Mounting plugin GameplayTagsEditor
+Mounting plugin MacGraphicsSwitching
+Mounting plugin MeshEditor
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin PluginBrowser
+Mounting plugin SpeedTreeImporter
+Mounting plugin DatasmithContent
+Mounting plugin VariantManagerContent
+Mounting plugin AlembicImporter
+Mounting plugin AppleImageUtils
+Mounting plugin AppleVision
+Mounting plugin BackChannel
+Mounting plugin CharacterAI
+Mounting plugin GeometryCache
+Mounting plugin HTML5Networking
+Mounting plugin ProxyLODPlugin
+Mounting plugin MagicLeap
+Mounting plugin MagicLeapMedia
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin ImgMedia
+Mounting plugin LinearTimecode
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin WebMMedia
+Mounting plugin WmfMedia
+Mounting plugin TcpMessaging
+Mounting plugin UdpMessaging
+Mounting plugin ActorSequence
+Mounting plugin LevelSequenceEditor
+Mounting plugin MatineeToLevelSequence
+Mounting plugin NetcodeUnitTest
+Mounting plugin NUTUnrealEngine4
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OnlineSubsystem
+Mounting plugin OnlineSubsystemNull
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin LauncherChunkInstaller
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AndroidPermission
+Mounting plugin AppleMoviePlayer
+Mounting plugin ArchVisCharacter
+Mounting plugin AudioCapture
+Mounting plugin CableComponent
+Mounting plugin CustomMeshComponent
+Mounting plugin EditableMesh
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin Firebase
+Mounting plugin GoogleCloudMessaging
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin OculusVR
+Mounting plugin PhysXVehicles
+Mounting plugin ProceduralMeshComponent
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SteamVR
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin UnrealEnginePython
+Took  0.087s to configure plugins.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.0.2h
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Build: ++UE4+Release-4.21-CL-4753647
+Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+Net CL: 4541578
+OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+Compiled (64-bit): Jan 19 2019 02:07:31
+Compiled with Visual C++: 19.13.26129.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.21
+Command Line: "C:\Users\aston\Documents\GitHub\TestingTwinShooter New\TestingTwinShooter.uproject" -run=Cook -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog=F:\UE_4.21\Engine\Programs\AutomationTool\Saved\Cook-2019.11.16-22.40.58.txt -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output
+Base Directory: F:/UE_4.21/Engine/Binaries/Win64/
+Installed Engine Build: 1
+Number of dev versions registered: 22
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+Took  0.002s to delete old logs.
+Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MergeGCClusters:0]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:1]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 8 GB [8470151168 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Setting CVar [[r.Vulkan.UseRealUBs:1]]
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:1]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+Computer: DESKTOP-VFO0F4L
+User: aston
+CPU Page size=4096, Cores=4
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=7.9GB (8GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 102.45 MB used, 102.45 MB peak
+Process Virtual Memory: 84.45 MB used, 84.45 MB peak
+Physical Memory: 5239.05 MB used,  2838.71 MB free, 8077.77 MB total
+Virtual Memory: 4615.47 MB used,  134213112.00 MB free, 134217728.00 MB total
+Using OS detected language (en-US).
+Using OS detected locale (en-GB).
+No specific localization for 'en-US' exists, so the 'en' localization will be used.
+Took  0.492s to InitEngineTextLocalization.
+Loaded TP AllDesktopTargetPlatform
+Loaded TP MacClientTargetPlatform
+Loaded TP MacNoEditorTargetPlatform
+Loaded TP MacServerTargetPlatform
+Loaded TP MacTargetPlatform
+Loaded TP WindowsClientTargetPlatform
+Loaded TP WindowsNoEditorTargetPlatform
+Loaded TP WindowsServerTargetPlatform
+Loaded TP WindowsTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP AndroidTargetPlatform
+Loaded TP HTML5TargetPlatform
+Loaded TP IOSTargetPlatform
+Loaded TP IOSTargetPlatform
+Loaded TP TVOSTargetPlatform
+Loaded TP TVOSTargetPlatform
+Loaded TP LinuxClientTargetPlatform
+Loaded TP LinuxNoEditorTargetPlatform
+Loaded TP LinuxServerTargetPlatform
+Loaded TP LinuxTargetPlatform
+Loaded TP LuminTargetPlatform
+Loaded TP LuminTargetPlatform
+Building Assets For WindowsNoEditor
+Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Intermediate/Shaders/WorkingDirectory/13192/).
+Cleaned the shader compiler working directory 'C:/Users/aston/AppData/Local/Temp/UnrealShaderWorkingDir/F0D0D6A64A580CD70806998D688D5145/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.06s 71MB C:/Users/aston/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/aston/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file C:/Users/aston/Documents/GitHub/TestingTwinShooter New/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/aston/Documents/GitHub/TestingTwinShooter New/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Using Local data cache path C:/Users/aston/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+FAssetRegistry took 0.0121 seconds to start up
+Selected Device Profile: [Windows]
+Simplygon DLL not present - disabling.
+Using SimplygonSwarm for distributed automatic mesh merging
+Using ProxyLODMeshReduction for automatic mesh merging
+Using QuadricMeshReduction for automatic static mesh reduction
+No automatic skeletal mesh reduction module available
+TestingTwinShooter 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2802648783)
+Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.142816 seconds
+Loaded 0 collections in 0.000745 seconds
+Scanning file cache for directory 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Collections/' took 0.01s
+Scanning file cache for directory 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Developers/aston/Collections/' took 0.01s
+Scanning file cache for directory 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/Collections/' took 0.00s
+Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+UAndroidPermissionCallbackProxy::GetInstance
+OculusInput pre-init called
+43745 objects as part of root set at end of initial load.
+7769776 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Executing Class /Script/UnrealEd.CookCommandlet
+Initializing Editor Engine...
+Initializing Engine...
+UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Door_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Frame_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Frame_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_ground_Moss_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_RockMesh_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_RockMesh_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Shelf_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Shelf_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Single_Tile_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Spark_Core.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Statue_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Statue_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_TableRound_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_TableRound_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/M_UE4Man_Body.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/M_UE4Man_ChestLogo.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Aluminum01.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile_PhysicsAsset.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile_Skeleton.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_O.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Textures/UE4Man_Logo_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/UE4_Mannequin_Mobile/Textures/UE4_LOGO_CARD.uasset" is too small (0 bytes, expected at least 32 bytes)
+Initializing FReadOnlyCVARCache
+Creating AISystem for world Untitled
+Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+Saved boot cache 0.01s 3MB C:/Users/aston/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+Texture streaming: Disabled
+Initializing Editor Engine Completed
+UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+Max memory allowance for cook 16384mb min free memory 0mb
+Mobile HDR setting 1
+Creating asset registry
+Discovering localized assets
+Cooked content cleared for platform WindowsNoEditor
+Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+Sandbox cleanup took 0.203 seconds for platforms WindowsNoEditor  iterative false
+Verifying Global Shaders for PCD3D_SM5
+Verifying Global Shaders for PCD3D_SM4
+Searching using wildcard: '../../../Engine/Content/*.uasset'
+Searching using wildcard: 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/2D/Paper2D/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Editor/CryptoKeys/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Editor/MeshEditor/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Enterprise/VariantManagerContent/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Lumin/MagicLeap/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Media/MediaCompositing/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/AppleARKit/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/UnrealEnginePython/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Content/*.umap'
+Searching using wildcard: 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/2D/Paper2D/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Editor/CryptoKeys/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Editor/MeshEditor/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Enterprise/VariantManagerContent/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Lumin/MagicLeap/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Media/MediaCompositing/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/AppleARKit/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/UnrealEnginePython/Content/*.umap'
+Unable to find package for cooking /Game/Character/TwinStickMode
+Unable to find package for cooking /Game/Character/TwinStickMode
+Cooked packages 0 Packages Remain 672 Total 672
+Cooked packages 50 Packages Remain 671 Total 721
+Creating AISystem for world MainMenu
+Cooked packages 100 Packages Remain 670 Total 770
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Creating AISystem for world TestLevel
+Cooked packages 150 Packages Remain 680 Total 830
+Cooked packages 150 Packages Remain 679 Total 829
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_Metal_Steel_N supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_Metal_Steel_N supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_Metal_Steel_N supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_Metal_Steel_N supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_Metal_Steel_D supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_Metal_Steel_D supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_Metal_Steel_N supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_Metal_Steel_N supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_Metal_Steel_N supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_Metal_Steel_N supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_Metal_Steel_D supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_Metal_Steel_D supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Package /Game/StarterContent/Textures/T_MacroVariation supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_MacroVariation supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_Metal_Steel_N supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_Metal_Steel_N supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Unable to cook package for platform because it is unable to be loaded: C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Cooked/WindowsNoEditor/TestingTwinShooter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset
+Unable to cook package for platform because it is unable to be loaded /Game/StarterContent/Textures/T_Metal_Steel_N -> C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Cooked/WindowsNoEditor/TestingTwinShooter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_Metal_Steel_D supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_Metal_Steel_D supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_Metal_Steel_D supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_Metal_Steel_D supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_MacroVariation supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_MacroVariation supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Missing cached shader map for material M_Metal_Steel, compiling. 
+C:\Users\aston\Documents\GitHub\TestingTwinShooter New\Content\StarterContent\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+Missing cached shader map for material M_Metal_Steel, compiling. 
+C:\Users\aston\Documents\GitHub\TestingTwinShooter New\Content\StarterContent\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM4, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_Metal_Steel_D supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_Metal_Steel_D supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Unable to cook package for platform because it is unable to be loaded: C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Cooked/WindowsNoEditor/TestingTwinShooter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset
+Unable to cook package for platform because it is unable to be loaded /Game/StarterContent/Textures/T_Metal_Steel_D -> C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Cooked/WindowsNoEditor/TestingTwinShooter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_MacroVariation supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_MacroVariation supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Package /Game/StarterContent/Textures/T_MacroVariation supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_MacroVariation supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Package /Game/StarterContent/Textures/T_MacroVariation supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Package /Game/StarterContent/Textures/T_MacroVariation supposed to be fully loaded but isn't. RF_WasLoaded is not set
+Unable to cook package for platform because it is unable to be loaded: C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Cooked/WindowsNoEditor/TestingTwinShooter/Content/StarterContent/Textures/T_MacroVariation.uasset
+Unable to cook package for platform because it is unable to be loaded /Game/StarterContent/Textures/T_MacroVariation -> C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Cooked/WindowsNoEditor/TestingTwinShooter/Content/StarterContent/Textures/T_MacroVariation.uasset
+Cooked packages 200 Packages Remain 681 Total 881
+Cooked packages 250 Packages Remain 680 Total 930
+Cooked packages 250 Packages Remain 679 Total 929
+Cooked packages 282 Packages Remain 678 Total 960
+Cooked packages 282 Packages Remain 677 Total 959
+Cooked packages 283 Packages Remain 676 Total 959
+Cooked packages 283 Packages Remain 675 Total 958
+Cooked packages 283 Packages Remain 674 Total 957
+Cooked packages 283 Packages Remain 673 Total 956
+Cooked packages 283 Packages Remain 672 Total 955
+Cooked packages 283 Packages Remain 671 Total 954
+Cooked packages 283 Packages Remain 670 Total 953
+Cooked packages 283 Packages Remain 669 Total 952
+Cooked packages 283 Packages Remain 668 Total 951
+Cooked packages 283 Packages Remain 667 Total 950
+Cooked packages 283 Packages Remain 666 Total 949
+Cooked packages 283 Packages Remain 665 Total 948
+Cooked packages 283 Packages Remain 664 Total 947
+Cooked packages 283 Packages Remain 663 Total 946
+Cooked packages 283 Packages Remain 662 Total 945
+Cooked packages 283 Packages Remain 661 Total 944
+Cooked packages 283 Packages Remain 660 Total 943
+Cooked packages 283 Packages Remain 659 Total 942
+Cooked packages 283 Packages Remain 658 Total 941
+Cooked packages 283 Packages Remain 657 Total 940
+Cooked packages 283 Packages Remain 656 Total 939
+Cooked packages 283 Packages Remain 655 Total 938
+Cooked packages 283 Packages Remain 654 Total 937
+Cooked packages 283 Packages Remain 653 Total 936
+Cooked packages 283 Packages Remain 652 Total 935
+Cooked packages 283 Packages Remain 651 Total 934
+Cooked packages 283 Packages Remain 650 Total 933
+Cooked packages 283 Packages Remain 649 Total 932
+Cooked packages 283 Packages Remain 648 Total 931
+Cooked packages 283 Packages Remain 647 Total 930
+Cooked packages 283 Packages Remain 646 Total 929
+Cooked packages 283 Packages Remain 645 Total 928
+Cooked packages 283 Packages Remain 644 Total 927
+Cooked packages 283 Packages Remain 643 Total 926
+Cooked packages 283 Packages Remain 642 Total 925
+Cooked packages 283 Packages Remain 641 Total 924
+Cooked packages 283 Packages Remain 640 Total 923
+Cooked packages 283 Packages Remain 639 Total 922
+Cooked packages 283 Packages Remain 638 Total 921
+Cooked packages 283 Packages Remain 637 Total 920
+Cooked packages 283 Packages Remain 636 Total 919
+Cooked packages 283 Packages Remain 635 Total 918
+Cooked packages 283 Packages Remain 634 Total 917
+Cooked packages 283 Packages Remain 633 Total 916
+Cooked packages 283 Packages Remain 632 Total 915
+Cooked packages 283 Packages Remain 631 Total 914
+Cooked packages 283 Packages Remain 630 Total 913
+Cooked packages 283 Packages Remain 629 Total 912
+Cooked packages 283 Packages Remain 628 Total 911
+Cooked packages 283 Packages Remain 627 Total 910
+Cooked packages 283 Packages Remain 626 Total 909
+Cooked packages 283 Packages Remain 625 Total 908
+Cooked packages 283 Packages Remain 624 Total 907
+Cooked packages 283 Packages Remain 623 Total 906
+Cooked packages 283 Packages Remain 622 Total 905
+Cooked packages 283 Packages Remain 621 Total 904
+Cooked packages 283 Packages Remain 620 Total 903
+Cooked packages 283 Packages Remain 619 Total 902
+Cooked packages 283 Packages Remain 618 Total 901
+Cooked packages 283 Packages Remain 617 Total 900
+Cooked packages 283 Packages Remain 616 Total 899
+Cooked packages 283 Packages Remain 615 Total 898
+Cooked packages 283 Packages Remain 614 Total 897
+Cooked packages 283 Packages Remain 613 Total 896
+Cooked packages 283 Packages Remain 612 Total 895
+Cooked packages 283 Packages Remain 611 Total 894
+Cooked packages 283 Packages Remain 610 Total 893
+Cooked packages 283 Packages Remain 609 Total 892
+Cooked packages 283 Packages Remain 608 Total 891
+Cooked packages 283 Packages Remain 607 Total 890
+Cooked packages 283 Packages Remain 606 Total 889
+Cooked packages 283 Packages Remain 605 Total 888
+Cooked packages 283 Packages Remain 604 Total 887
+Cooked packages 283 Packages Remain 603 Total 886
+Cooked packages 283 Packages Remain 602 Total 885
+Cooked packages 283 Packages Remain 601 Total 884
+Cooked packages 283 Packages Remain 600 Total 883
+Cooked packages 283 Packages Remain 599 Total 882
+Cooked packages 283 Packages Remain 598 Total 881
+Cooked packages 283 Packages Remain 597 Total 880
+Cooked packages 283 Packages Remain 596 Total 879
+Cooked packages 283 Packages Remain 595 Total 878
+Cooked packages 283 Packages Remain 594 Total 877
+Cooked packages 283 Packages Remain 593 Total 876
+Cooked packages 283 Packages Remain 592 Total 875
+Cooked packages 283 Packages Remain 591 Total 874
+Cooked packages 283 Packages Remain 590 Total 873
+Cooked packages 283 Packages Remain 589 Total 872
+Cooked packages 283 Packages Remain 588 Total 871
+Cooked packages 283 Packages Remain 587 Total 870
+Cooked packages 283 Packages Remain 586 Total 869
+Cooked packages 283 Packages Remain 585 Total 868
+Cooked packages 283 Packages Remain 584 Total 867
+Cooked packages 283 Packages Remain 583 Total 866
+Cooked packages 283 Packages Remain 582 Total 865
+Cooked packages 283 Packages Remain 581 Total 864
+Cooked packages 283 Packages Remain 580 Total 863
+Cooked packages 283 Packages Remain 579 Total 862
+Cooked packages 283 Packages Remain 578 Total 861
+Cooked packages 283 Packages Remain 577 Total 860
+Cooked packages 283 Packages Remain 576 Total 859
+Cooked packages 283 Packages Remain 575 Total 858
+Cooked packages 283 Packages Remain 574 Total 857
+Cooked packages 283 Packages Remain 573 Total 856
+Cooked packages 283 Packages Remain 572 Total 855
+Cooked packages 283 Packages Remain 571 Total 854
+Cooked packages 283 Packages Remain 570 Total 853
+Cooked packages 283 Packages Remain 569 Total 852
+Cooked packages 283 Packages Remain 568 Total 851
+Cooked packages 283 Packages Remain 567 Total 850
+Cooked packages 283 Packages Remain 566 Total 849
+Cooked packages 283 Packages Remain 565 Total 848
+Cooked packages 283 Packages Remain 564 Total 847
+Cooked packages 283 Packages Remain 563 Total 846
+Cooked packages 283 Packages Remain 562 Total 845
+Cooked packages 283 Packages Remain 561 Total 844
+Cooked packages 283 Packages Remain 560 Total 843
+Cooked packages 283 Packages Remain 559 Total 842
+Cooked packages 283 Packages Remain 558 Total 841
+Cooked packages 283 Packages Remain 557 Total 840
+Cooked packages 283 Packages Remain 556 Total 839
+Cooked packages 283 Packages Remain 555 Total 838
+Cooked packages 283 Packages Remain 554 Total 837
+Cooked packages 283 Packages Remain 553 Total 836
+Cooked packages 283 Packages Remain 552 Total 835
+Cooked packages 283 Packages Remain 551 Total 834
+Cooked packages 283 Packages Remain 550 Total 833
+Cooked packages 283 Packages Remain 549 Total 832
+Cooked packages 283 Packages Remain 548 Total 831
+Cooked packages 283 Packages Remain 547 Total 830
+Cooked packages 283 Packages Remain 546 Total 829
+Cooked packages 283 Packages Remain 545 Total 828
+Cooked packages 283 Packages Remain 544 Total 827
+Cooked packages 283 Packages Remain 543 Total 826
+Cooked packages 283 Packages Remain 542 Total 825
+Cooked packages 283 Packages Remain 541 Total 824
+Cooked packages 292 Packages Remain 540 Total 832
+Cooked packages 297 Packages Remain 539 Total 836
+Creating AISystem for world Entry
+Cooked packages 302 Packages Remain 538 Total 840
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Water_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_SubUV.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_SubUV.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset' contains unrecognizable data, check that it is of the expected type.
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_SubUV.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_SubUV.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Lamp_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset'.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Grass_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_ground_Moss_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_ground_Moss_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_ground_Moss_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_ground_Moss_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Moss_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Moss_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_ground_Moss_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_ground_Moss_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_ground_Moss_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_ground_Moss_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Moss_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Ground_Moss_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Copper_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Copper_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Copper_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Copper_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Gold_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Error opening file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset'.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Rust_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" is too small (0 bytes, expected at least 32 bytes)
+The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset' contains unrecognizable data, check that it is of the expected type.
+
+
+Script Stack (0 frames):
+
+Windows GetLastError: The operation completed successfully. (0)
