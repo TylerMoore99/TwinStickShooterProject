@@ -1,0 +1,1347 @@
+﻿Log file open, 11/17/19 12:00:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TestingTwinShooter
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291653
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogStreaming: Display: Took  0.089s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -game
+LogInit: Base Directory: F:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.17-12.00.17:890][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.11.17-12.00.17:890][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.11.17-12.00.17:891][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.17-12.00.17:891][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.17-12.00.17:892][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.11.17-12.00.17:892][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.11.17-12.00.17:916][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:916][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.17-12.00.17:916][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.17-12.00.17:917][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.17-12.00.17:918][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.17-12.00.17:919][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.17-12.00.17:920][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.17-12.00.17:921][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.17-12.00.17:921][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.17-12.00.17:921][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.17-12.00.17:921][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.17-12.00.17:921][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.17-12.00.17:921][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.17-12.00.17:921][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.17-12.00.17:921][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:921][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.17-12.00.17:921][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.17-12.00.17:921][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.17-12.00.17:921][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.17-12.00.17:981][  0]LogHAL: Display: Platform has ~ 8 GB [8470151168 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.17-12.00.17:981][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.11.17-12.00.17:981][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.17-12.00.17:981][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:981][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.17-12.00.17:981][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.17-12.00.17:981][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:981][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.17-12.00.17:982][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.17-12.00.17:983][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Scalability.ini]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.17-12.00.17:984][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.17-12.00.17:984][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Saved/Config/Windows/Engine.ini]
+[2019.11.17-12.00.17:985][  0]LogInit: Computer: DESKTOP-VFO0F4L
+[2019.11.17-12.00.17:985][  0]LogInit: User: aston
+[2019.11.17-12.00.17:985][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.17-12.00.17:985][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.17-12.00.17:985][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.11.17-12.00.17:985][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.17-12.00.17:985][  0]LogMemory: Process Physical Memory: 103.05 MB used, 103.05 MB peak
+[2019.11.17-12.00.17:985][  0]LogMemory: Process Virtual Memory: 92.55 MB used, 92.55 MB peak
+[2019.11.17-12.00.17:985][  0]LogMemory: Physical Memory: 4134.84 MB used,  3942.93 MB free, 8077.77 MB total
+[2019.11.17-12.00.17:985][  0]LogMemory: Virtual Memory: 4624.00 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.11.17-12.00.18:462][  0]LogInit: Using OS detected language (en-US).
+[2019.11.17-12.00.18:462][  0]LogInit: Using OS detected locale (en-GB).
+[2019.11.17-12.00.18:462][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.17-12.00.18:873][  0]LogStreaming: Display: Took  0.411s to InitEngineTextLocalization.
+[2019.11.17-12.00.18:964][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.17-12.00.18:964][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.17-12.00.18:972][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.17-12.00.18:972][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.17-12.00.19:045][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.11.17-12.00.19:045][  0]LogD3D11RHI:       6052/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.17-12.00.19:051][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.11.17-12.00.19:051][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.11.17-12.00.19:053][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.17-12.00.19:053][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.17-12.00.19:053][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.17-12.00.19:061][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.17-12.00.19:061][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.17-12.00.19:061][  0]LogWindows: EnumDisplayDevices:
+[2019.11.17-12.00.19:061][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.11.17-12.00.19:061][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.17-12.00.19:061][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.17-12.00.19:062][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.11.17-12.00.19:062][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2019.11.17-12.00.19:062][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.11.17-12.00.19:062][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.11.17-12.00.19:062][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.11.17-12.00.19:062][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.11.17-12.00.19:062][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.11.17-12.00.19:062][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.11.17-12.00.19:063][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.11.17-12.00.19:106][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.17-12.00.19:141][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.17-12.00.19:671][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.11.17-12.00.19:712][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.11.17-12.00.19:744][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.11.17-12.00.19:765][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.11.17-12.00.19:765][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.17-12.00.20:510][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Intermediate/Shaders/WorkingDirectory/10584/).
+[2019.11.17-12.00.20:511][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/aston/AppData/Local/Temp/UnrealShaderWorkingDir/E42168424AF37F7020D5D49C9220A3AE/'.
+[2019.11.17-12.00.20:513][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.17-12.00.20:513][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.17-12.00.20:513][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.17-12.00.22:005][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.17-12.00.22:064][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/aston/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.11.17-12.00.22:064][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/aston/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.11.17-12.00.22:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/aston/Documents/GitHub/TestingTwinShooter New/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.17-12.00.22:064][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.17-12.00.22:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/aston/Documents/GitHub/TestingTwinShooter New/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.17-12.00.22:064][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.17-12.00.22:100][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.17-12.00.22:100][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.17-12.00.22:100][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.17-12.00.22:112][  0]LogDerivedDataCache: Using Local data cache path C:/Users/aston/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.17-12.00.22:112][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.17-12.00.22:112][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.17-12.00.22:134][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.17-12.00.22:135][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.17-12.00.22:149][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.17-12.00.22:355][  0]LogInit: Using OS detected language (en-US).
+[2019.11.17-12.00.22:355][  0]LogInit: Using OS detected locale (en-GB).
+[2019.11.17-12.00.22:355][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.11.17-12.00.22:355][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2019.11.17-12.00.22:355][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.11.17-12.00.22:355][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.11.17-12.00.22:683][  0]LogStreaming: Display: Took  0.328s to InitGameTextLocalization.
+[2019.11.17-12.00.22:688][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2019.11.17-12.00.22:916][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.050752 seconds
+[2019.11.17-12.00.23:015][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.17-12.00.23:519][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.11.17-12.00.23:611][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.11.17-12.00.23:611][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.17-12.00.23:611][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.17-12.00.23:611][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.11.17-12.00.23:644][  0]LogNetVersion: TestingTwinShooter 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2802648783)
+[2019.11.17-12.00.25:445][  0]LogMoviePlayer: Initializing movie player
+[2019.11.17-12.00.26:390][  0]SourceControl: Source control is disabled
+[2019.11.17-12.00.26:391][  0]SourceControl: Source control is disabled
+[2019.11.17-12.00.26:520][  0]SourceControl: Source control is disabled
+[2019.11.17-12.00.27:629][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.17-12.00.27:959][  0]LogOcInput: OculusInput pre-init called
+[2019.11.17-12.00.27:996][  0]LogUObjectArray: 43226 objects as part of root set at end of initial load.
+[2019.11.17-12.00.27:996][  0]LogUObjectAllocator: 7590224 out of 0 bytes used by permanent object pool.
+[2019.11.17-12.00.27:996][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.17-12.00.28:293][  0]LogEngine: Initializing Engine...
+[2019.11.17-12.00.28:293][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.17-12.00.28:305][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.11.17-12.00.28:306][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.11.17-12.00.28:306][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.11.17-12.00.28:306][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.11.17-12.00.28:612][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.17-12.00.28:645][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.17-12.00.28:680][  0]LogInit: FAudioDevice initialized.
+[2019.11.17-12.00.28:692][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.17-12.00.28:770][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/aston/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.11.17-12.00.28:776][  0]LogInit: Texture streaming: Enabled
+[2019.11.17-12.00.29:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-12.00.29:124][  0]LogInit: Display: Game Engine Initialized.
+[2019.11.17-12.00.29:124][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.11.17-12.00.29:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.11.17-12.00.29:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.11.17-12.00.29:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.11.17-12.00.29:124][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.11.17-12.00.29:279][  0]LogInit: Display: Starting Game.
+[2019.11.17-12.00.29:279][  0]LogNet: Browse: /Game/Maps/MainMenu?Name=Player
+[2019.11.17-12.00.29:279][  0]LogLoad: LoadMap: /Game/Maps/MainMenu?Name=Player
+[2019.11.17-12.00.29:440][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.17-12.00.29:441][  0]LogLinker: Warning: Can't find file '/Game/Character/TwinStickMode'
+[2019.11.17-12.00.29:441][  0]LogUObjectGlobals: Warning: Failed to load '/Game/Character/TwinStickMode': Can't find file '/Game/Character/TwinStickMode'
+[2019.11.17-12.00.29:441][  0]LogLinker: Warning: Can't find file '/Game/Character/TwinStickMode'
+[2019.11.17-12.00.29:441][  0]LogUObjectGlobals: Warning: Failed to load '/Game/Character/TwinStickMode': Can't find file '/Game/Character/TwinStickMode'
+[2019.11.17-12.00.29:441][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Character/TwinStickMode.TwinStickMode_C'
+[2019.11.17-12.00.29:441][  0]LogLoad: Game class is 'GameModeBase'
+[2019.11.17-12.00.29:442][  0]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.17-12.00.29
+[2019.11.17-12.00.29:443][  0]LogWorld: Bringing up level for play took: 0.000477
+[2019.11.17-12.00.29:443][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-12.00.29:446][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.11.17-12.00.29:446][  0]LogLoad: Took 0.166795 seconds to LoadMap(/Game/Maps/MainMenu)
+[2019.11.17-12.00.29:613][  0]LogRenderer: Reallocating scene render targets to support 1400x876 Format 10 NumSamples 1 (Frame:1).
+[2019.11.17-12.00.29:613][  0]LogLoad: (Engine Initialization) Total time: 15.29 seconds
+[2019.11.17-12.00.29:613][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.17-12.00.29:634][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.17-12.02.27:096][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-12.02.27:243][265]LogPackageName: SearchForPackageOnDisk took   0.050s to resolve TestLevel.umap.
+[2019.11.17-12.02.27:290][265]LogPackageName: SearchForPackageOnDisk took   0.047s to resolve TestLevel.umap.
+[2019.11.17-12.02.27:290][265]LogNet: Browse: /Game/Maps/TestLevel
+[2019.11.17-12.02.27:290][265]LogLoad: LoadMap: /Game/Maps/TestLevel
+[2019.11.17-12.02.28:170][265]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.02.28:170][265]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.02.28:171][265]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.02.28:171][265]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.02.28:171][265]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.02.28:171][265]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.02.28:171][265]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.02.28:171][265]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.02.28:171][265]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.02.28:172][265]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.02.28:172][265]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.02.28:172][265]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.02.28:172][265]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.02.28:172][265]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.02.28:172][265]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.02.28:172][265]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.02.28:172][265]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.02.28:172][265]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.02.28:173][265]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.02.28:173][265]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.02.28:637][265]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.11.17-12.02.28:637][265]LogMaterial: Warning: C:\Users\aston\Documents\GitHub\TestingTwinShooter New\Content\StarterContent\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.17-12.02.28:638][265]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.11.17-12.02.28:781][265]LogAIModule: Creating AISystem for world TestLevel
+[2019.11.17-12.02.28:781][265]LogLoad: Game class is 'TwinStickMode_C'
+[2019.11.17-12.02.28:787][265]LogWorld: Bringing World /Game/Maps/TestLevel.TestLevel up for play (max tick rate 0) at 2019.11.17-12.02.28
+[2019.11.17-12.02.28:788][265]LogWorld: Bringing up level for play took: 0.005619
+[2019.11.17-12.02.28:802][265]LogLoad: Took 1.510867 seconds to LoadMap(/Game/Maps/TestLevel)
+[2019.11.17-12.02.39:643][928]LogBlueprintUserMessages: [Enemy_C_0] 20.0
+[2019.11.17-12.02.40:368][973]LogBlueprintUserMessages: [Enemy_C_1] 20.0
+[2019.11.17-12.02.40:482][980]LogBlueprintUserMessages: [Enemy_C_0] 10.0
+[2019.11.17-12.02.40:676][992]LogBlueprintUserMessages: [Enemy_C_0] 0.0
+[2019.11.17-12.02.40:691][993]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.02.40:691][993]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:691][993]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.02.40:691][993]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:707][994]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.02.40:707][994]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:707][994]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.02.40:707][994]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:723][995]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.02.40:723][995]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:723][995]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.02.40:723][995]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:740][996]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.02.40:740][996]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:740][996]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.02.40:740][996]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:756][997]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.02.40:756][997]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:756][997]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.02.40:756][997]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:772][998]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.02.40:772][998]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:772][998]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.02.40:772][998]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:788][999]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.02.40:788][999]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:788][999]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.02.40:788][999]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:804][  0]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.02.40:804][  0]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:804][  0]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.02.40:804][  0]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:820][  1]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_0
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.02.40:820][  1]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.02.40:933][  8]LogBlueprintUserMessages: [Enemy_C_2] 20.0
+[2019.11.17-12.02.41:111][ 19]LogBlueprintUserMessages: [Enemy_C_2] 10.0
+[2019.11.17-12.02.44:225][212]LogBlueprintUserMessages: [Enemy_C_2] 0.0
+[2019.11.17-12.02.44:225][212]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.02.44:402][223]LogBlueprintUserMessages: [Enemy_C_1] 10.0
+[2019.11.17-12.02.44:531][231]LogBlueprintUserMessages: [Enemy_C_1] 0.0
+[2019.11.17-12.02.44:531][231]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.02.44:773][246]LogBlueprintUserMessages: [Enemy_C_4] 20.0
+[2019.11.17-12.02.44:902][254]LogBlueprintUserMessages: [Enemy_C_4] 10.0
+[2019.11.17-12.02.45:048][263]LogBlueprintUserMessages: [Enemy_C_4] 0.0
+[2019.11.17-12.02.45:048][263]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.02.46:661][363]LogBlueprintUserMessages: [Freeze_C_0] Freeze
+[2019.11.17-12.02.48:451][474]LogBlueprintUserMessages: [Enemy_C_3] 20.0
+[2019.11.17-12.02.49:209][521]LogBlueprintUserMessages: [Enemy_C_3] 10.0
+[2019.11.17-12.02.58:533][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-12.03.00:857][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-12.03.00:969][247]LogPackageName: SearchForPackageOnDisk took   0.047s to resolve MainMenu.umap.
+[2019.11.17-12.03.01:017][247]LogPackageName: SearchForPackageOnDisk took   0.048s to resolve MainMenu.umap.
+[2019.11.17-12.03.01:017][247]LogNet: Browse: /Game/Maps/MainMenu
+[2019.11.17-12.03.01:017][247]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2019.11.17-12.03.01:088][247]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.17-12.03.01:089][247]LogLoad: Game class is 'GameModeBase'
+[2019.11.17-12.03.01:093][247]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.17-12.03.01
+[2019.11.17-12.03.01:093][247]LogWorld: Bringing up level for play took: 0.003018
+[2019.11.17-12.03.01:093][247]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-12.03.01:094][247]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.11.17-12.03.01:095][247]LogLoad: Took 0.077645 seconds to LoadMap(/Game/Maps/MainMenu)
+[2019.11.17-12.03.01:951][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-12.03.02:081][306]LogPackageName: SearchForPackageOnDisk took   0.049s to resolve TestLevel.umap.
+[2019.11.17-12.03.02:128][306]LogPackageName: SearchForPackageOnDisk took   0.047s to resolve TestLevel.umap.
+[2019.11.17-12.03.02:128][306]LogNet: Browse: /Game/Maps/TestLevel
+[2019.11.17-12.03.02:129][306]LogLoad: LoadMap: /Game/Maps/TestLevel
+[2019.11.17-12.03.02:617][306]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.03.02:617][306]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.03.02:618][306]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.03.02:618][306]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_D.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.03.02:618][306]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.03.02:618][306]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.03.02:618][306]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.03.02:618][306]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_Metal_Steel_N.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.03.02:619][306]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.03.02:619][306]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.03.02:619][306]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.03.02:619][306]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.03.02:619][306]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.03.02:619][306]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.03.02:619][306]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.03.02:619][306]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.03.02:619][306]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.03.02:619][306]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.03.02:620][306]LogLinker: Warning: Failed to read package file summary, the file "C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset" is too small (0 bytes, expected at least 32 bytes)
+[2019.11.17-12.03.02:620][306]LogLinker: Warning: The file 'C:/Users/aston/Documents/GitHub/TestingTwinShooter New/Content/StarterContent/Textures/T_MacroVariation.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.11.17-12.03.02:736][306]LogMaterial: Display: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2019.11.17-12.03.02:737][306]LogMaterial: Warning: C:\Users\aston\Documents\GitHub\TestingTwinShooter New\Content\StarterContent\Materials\M_Metal_Steel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.17-12.03.02:737][306]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.11.17-12.03.02:806][306]LogAIModule: Creating AISystem for world TestLevel
+[2019.11.17-12.03.02:806][306]LogLoad: Game class is 'TwinStickMode_C'
+[2019.11.17-12.03.02:810][306]LogWorld: Bringing World /Game/Maps/TestLevel.TestLevel up for play (max tick rate 0) at 2019.11.17-12.03.02
+[2019.11.17-12.03.02:810][306]LogWorld: Bringing up level for play took: 0.003788
+[2019.11.17-12.03.02:814][306]LogLoad: Took 0.685202 seconds to LoadMap(/Game/Maps/TestLevel)
+[2019.11.17-12.03.08:182][636]LogBlueprintUserMessages: [Enemy_C_1] 20.0
+[2019.11.17-12.03.08:343][646]LogBlueprintUserMessages: [Enemy_C_1] 10.0
+[2019.11.17-12.03.08:698][668]LogBlueprintUserMessages: [Enemy_C_1] 0.0
+[2019.11.17-12.03.08:698][668]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.03.10:360][771]LogBlueprintUserMessages: [Enemy_C_0] 20.0
+[2019.11.17-12.03.10:456][777]LogBlueprintUserMessages: [Enemy_C_0] 10.0
+[2019.11.17-12.03.10:537][782]LogBlueprintUserMessages: [Enemy_C_0] 0.0
+[2019.11.17-12.03.10:537][782]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.03.13:650][975]LogBlueprintUserMessages: [Enemy_C_2] 20.0
+[2019.11.17-12.03.14:553][ 31]LogBlueprintUserMessages: [Enemy_C_4] 20.0
+[2019.11.17-12.03.17:328][203]LogBlueprintUserMessages: [Enemy_C_4] 10.0
+[2019.11.17-12.03.17:441][210]LogBlueprintUserMessages: [Enemy_C_4] 0.0
+[2019.11.17-12.03.18:134][253]LogBlueprintUserMessages: [Enemy_C_3] 20.0
+[2019.11.17-12.03.21:828][482]LogBlueprintUserMessages: [Enemy_C_2] 10.0
+[2019.11.17-12.03.22:070][497]LogCharacterMovement: Enemy_C_2 is stuck and failed to move! Velocity: X=-127.50 Y=271.56 Z=0.00 Location: X=771.03 Y=556.58 Z=235.86 Normal: X=0.13 Y=-0.99 Z=0.00 PenetrationDepth:6.544 Actor:Pistol_2_C_0 Component:pistol BoneName:None (0 other events since notify)
+[2019.11.17-12.03.32:103][119]LogBlueprintUserMessages: [Enemy_C_2] -25.0
+[2019.11.17-12.03.32:941][171]LogBlueprintUserMessages: [Enemy_C_3] -15.0
+[2019.11.17-12.03.38:430][511]LogBlueprintUserMessages: [TwinStickMode_C_0] Objective 3
+[2019.11.17-12.03.46:339][  1]LogBlueprintUserMessages: [Enemy_C_5] -5.0
+[2019.11.17-12.03.47:709][ 86]LogBlueprintUserMessages: [Enemy_C_7] -5.0
+[2019.11.17-12.03.47:709][ 86]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.03.55:436][565]LogBlueprintUserMessages: [Enemy_C_10] -5.0
+[2019.11.17-12.03.56:293][601]LogBlueprintUserMessages: [Enemy_C_9] -5.0
+[2019.11.17-12.03.56:293][601]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.03.57:153][650]LogBlueprintUserMessages: [Enemy_C_8] -5.0
+[2019.11.17-12.03.57:154][650]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.03.58:138][711]LogBlueprintUserMessages: [Enemy_C_6] -5.0
+[2019.11.17-12.04.00:123][834]LogBlueprintUserMessages: [Freeze_C_0] Freeze
+[2019.11.17-12.04.00:317][846]LogBlueprintUserMessages: [Enemy_C_11] 10.0
+[2019.11.17-12.04.00:332][847]LogCharacterMovement: Enemy_C_11 is stuck and failed to move! Velocity: X=-0.02 Y=33.03 Z=0.00 Location: X=1318.88 Y=853.70 Z=160.15 Normal: X=-0.83 Y=-0.56 Z=0.00 PenetrationDepth:8.430 Actor:Rifle-2_C_0 Component:rifle BoneName:None (0 other events since notify)
+[2019.11.17-12.04.00:541][860]LogBlueprintUserMessages: [Enemy_C_11] -10.0
+[2019.11.17-12.04.00:541][860]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.05:929][194]LogBlueprintUserMessages: [Enemy_C_12] 10.0
+[2019.11.17-12.04.06:848][251]LogBlueprintUserMessages: [Enemy_C_12] -10.0
+[2019.11.17-12.04.06:848][251]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.09:026][386]LogBlueprintUserMessages: [Syringe_C_0] Boost
+[2019.11.17-12.04.20:123][ 74]LogBlueprintUserMessages: [Enemy_C_15] 10.0
+[2019.11.17-12.04.20:284][ 84]LogBlueprintUserMessages: [Enemy_C_15] -10.0
+[2019.11.17-12.04.20:285][ 84]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.22:511][222]LogBlueprintUserMessages: [Enemy_C_13] 10.0
+[2019.11.17-12.04.25:430][403]LogBlueprintUserMessages: [Enemy_C_17] 10.0
+[2019.11.17-12.04.29:495][655]LogBlueprintUserMessages: [Enemy_C_17] -10.0
+[2019.11.17-12.04.29:496][655]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.30:205][699]LogBlueprintUserMessages: [Enemy_C_18] 10.0
+[2019.11.17-12.04.30:479][716]LogBlueprintUserMessages: [Enemy_C_18] -10.0
+[2019.11.17-12.04.30:479][716]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.30:979][747]LogBlueprintUserMessages: [Enemy_C_16] 10.0
+[2019.11.17-12.04.31:093][754]LogBlueprintUserMessages: [Enemy_C_16] -10.0
+[2019.11.17-12.04.31:093][754]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.32:995][872]LogBlueprintUserMessages: [Enemy_C_21] 10.0
+[2019.11.17-12.04.33:141][881]LogBlueprintUserMessages: [Enemy_C_20] 10.0
+[2019.11.17-12.04.33:384][895]LogCharacterMovement: Enemy_C_19 is stuck and failed to move! Velocity: X=-154.63 Y=-232.54 Z=0.00 Location: X=494.00 Y=334.69 Z=160.17 Normal: X=-0.62 Y=0.78 Z=-0.06 PenetrationDepth:0.000 Actor:Rifle-2_C_0 Component:rifle BoneName:None (0 other events since notify)
+[2019.11.17-12.04.35:477][ 25]LogBlueprintUserMessages: [Enemy_C_21] -10.0
+[2019.11.17-12.04.35:477][ 25]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.36:025][ 59]LogBlueprintUserMessages: [Enemy_C_20] -10.0
+[2019.11.17-12.04.36:025][ 59]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.36:783][106]LogBlueprintUserMessages: [Enemy_C_14] 10.0
+[2019.11.17-12.04.37:638][159]LogBlueprintUserMessages: [Enemy_C_14] -10.0
+[2019.11.17-12.04.37:735][165]LogBlueprintUserMessages: [Enemy_C_19] 10.0
+[2019.11.17-12.04.37:848][172]LogBlueprintUserMessages: [Enemy_C_19] -10.0
+[2019.11.17-12.04.38:106][188]LogBlueprintUserMessages: [Enemy_C_13] -10.0
+[2019.11.17-12.04.38:106][188]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.38:783][230]LogBlueprintUserMessages: [Enemy_C_22] 10.0
+[2019.11.17-12.04.42:219][443]LogBlueprintUserMessages: [Enemy_C_24] 10.0
+[2019.11.17-12.04.42:445][457]LogBlueprintUserMessages: [Enemy_C_24] -10.0
+[2019.11.17-12.04.42:445][457]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.43:138][500]LogCharacterMovement: Enemy_C_23 is stuck and failed to move! Velocity: X=169.46 Y=-247.55 Z=0.00 Location: X=1074.33 Y=-120.35 Z=160.28 Normal: X=-0.78 Y=0.62 Z=0.00 PenetrationDepth:0.831 Actor:Rifle-2_C_1 Component:rifle BoneName:None (0 other events since notify)
+[2019.11.17-12.04.43:300][510]LogBlueprintUserMessages: [Enemy_C_22] -10.0
+[2019.11.17-12.04.43:300][510]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.45:783][664]LogBlueprintUserMessages: [Enemy_C_23] 10.0
+[2019.11.17-12.04.45:944][674]LogBlueprintUserMessages: [Enemy_C_23] -10.0
+[2019.11.17-12.04.45:945][674]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.04.58:591][458]LogBlueprintUserMessages: [Enemy_C_26] 10.0
+[2019.11.17-12.04.58:752][468]LogBlueprintUserMessages: [Enemy_C_26] -10.0
+[2019.11.17-12.04.58:752][468]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.01:284][625]LogBlueprintUserMessages: [Enemy_C_25] 10.0
+[2019.11.17-12.05.04:333][814]LogBlueprintUserMessages: [Enemy_C_25] -10.0
+[2019.11.17-12.05.04:334][814]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.06:494][948]LogBlueprintUserMessages: [Enemy_C_27] 10.0
+[2019.11.17-12.05.07:139][988]LogBlueprintUserMessages: [Enemy_C_27] -10.0
+[2019.11.17-12.05.07:140][988]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.10:107][172]LogBlueprintUserMessages: [Enemy_C_31] 10.0
+[2019.11.17-12.05.10:640][205]LogBlueprintUserMessages: [Enemy_C_30] 10.0
+[2019.11.17-12.05.10:769][213]LogBlueprintUserMessages: [Enemy_C_29] 10.0
+[2019.11.17-12.05.11:060][231]LogBlueprintUserMessages: [Enemy_C_28] 10.0
+[2019.11.17-12.05.11:108][234]LogBlueprintUserMessages: [Enemy_C_30] -10.0
+[2019.11.17-12.05.11:108][234]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.11:383][251]LogBlueprintUserMessages: [Enemy_C_31] -10.0
+[2019.11.17-12.05.11:383][251]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.11:592][264]LogBlueprintUserMessages: [Enemy_C_28] -10.0
+[2019.11.17-12.05.11:592][264]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.11:995][289]LogBlueprintUserMessages: [Enemy_C_29] -10.0
+[2019.11.17-12.05.11:995][289]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.15:285][493]LogBlueprintUserMessages: [Enemy_C_34] 10.0
+[2019.11.17-12.05.15:947][534]LogBlueprintUserMessages: [Enemy_C_34] -10.0
+[2019.11.17-12.05.15:947][534]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.16:834][589]LogBlueprintUserMessages: [Enemy_C_32] 10.0
+[2019.11.17-12.05.17:059][603]LogBlueprintUserMessages: [Enemy_C_32] -10.0
+[2019.11.17-12.05.17:060][603]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.18:204][674]LogBlueprintUserMessages: [Enemy_C_33] 10.0
+[2019.11.17-12.05.18:333][682]LogBlueprintUserMessages: [Enemy_C_33] -10.0
+[2019.11.17-12.05.18:334][682]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.21:609][885]LogBlueprintUserMessages: [Enemy_C_36] 10.0
+[2019.11.17-12.05.21:737][893]LogBlueprintUserMessages: [Enemy_C_36] -10.0
+[2019.11.17-12.05.21:737][893]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.23:980][ 32]LogBlueprintUserMessages: [Enemy_C_35] 10.0
+[2019.11.17-12.05.24:238][ 48]LogBlueprintUserMessages: [Enemy_C_35] -10.0
+[2019.11.17-12.05.24:238][ 48]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.27:608][257]LogBlueprintUserMessages: [Enemy_C_37] 10.0
+[2019.11.17-12.05.28:173][292]LogBlueprintUserMessages: [Enemy_C_37] -10.0
+[2019.11.17-12.05.28:173][292]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.29:077][348]LogBlueprintUserMessages: [Enemy_C_38] 10.0
+[2019.11.17-12.05.29:610][381]LogBlueprintUserMessages: [Enemy_C_38] -10.0
+[2019.11.17-12.05.29:610][381]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.31:174][478]LogBlueprintUserMessages: [Enemy_C_40] 10.0
+[2019.11.17-12.05.31:270][484]LogBlueprintUserMessages: [Enemy_C_40] -10.0
+[2019.11.17-12.05.33:834][643]LogBlueprintUserMessages: [Enemy_C_39] 10.0
+[2019.11.17-12.05.33:948][650]LogBlueprintUserMessages: [Enemy_C_39] -10.0
+[2019.11.17-12.05.35:044][718]LogBlueprintUserMessages: [Ammo_C_0] Ammo
+[2019.11.17-12.05.46:551][431]LogBlueprintUserMessages: [Enemy_C_41] 10.0
+[2019.11.17-12.05.46:681][439]LogBlueprintUserMessages: [Enemy_C_41] -10.0
+[2019.11.17-12.05.46:681][439]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.50:793][694]LogBlueprintUserMessages: [Enemy_C_43] 10.0
+[2019.11.17-12.05.50:954][704]LogBlueprintUserMessages: [Enemy_C_43] -10.0
+[2019.11.17-12.05.52:616][807]LogBlueprintUserMessages: [Enemy_C_42] 10.0
+[2019.11.17-12.05.52:712][813]LogBlueprintUserMessages: [Enemy_C_42] -10.0
+[2019.11.17-12.05.52:712][813]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.55:907][ 11]LogBlueprintUserMessages: [Enemy_C_47] 10.0
+[2019.11.17-12.05.56:036][ 19]LogBlueprintUserMessages: [Enemy_C_47] -10.0
+[2019.11.17-12.05.56:036][ 19]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.56:971][ 77]LogBlueprintUserMessages: [Enemy_C_44] 10.0
+[2019.11.17-12.05.57:084][ 84]LogBlueprintUserMessages: [Enemy_C_44] -10.0
+[2019.11.17-12.05.57:085][ 84]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.05.58:713][185]LogBlueprintUserMessages: [Enemy_C_45] 10.0
+[2019.11.17-12.05.59:907][259]LogBlueprintUserMessages: [Enemy_C_46] 10.0
+[2019.11.17-12.06.00:359][287]LogBlueprintUserMessages: [Enemy_C_45] -10.0
+[2019.11.17-12.06.00:359][287]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.03:778][499]LogBlueprintUserMessages: [Enemy_C_48] 10.0
+[2019.11.17-12.06.03:842][503]LogBlueprintUserMessages: [Enemy_C_46] -10.0
+[2019.11.17-12.06.03:842][503]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.03:988][512]LogBlueprintUserMessages: [Enemy_C_48] -10.0
+[2019.11.17-12.06.06:375][660]LogBlueprintUserMessages: [Enemy_C_49] 10.0
+[2019.11.17-12.06.07:279][716]LogBlueprintUserMessages: [Enemy_C_50] 10.0
+[2019.11.17-12.06.09:779][871]LogBlueprintUserMessages: [Enemy_C_49] -10.0
+[2019.11.17-12.06.09:875][877]LogBlueprintUserMessages: [Enemy_C_53] 10.0
+[2019.11.17-12.06.10:262][901]LogBlueprintUserMessages: [Enemy_C_50] -10.0
+[2019.11.17-12.06.10:472][914]LogBlueprintUserMessages: [Enemy_C_55] 10.0
+[2019.11.17-12.06.10:601][922]LogBlueprintUserMessages: [Enemy_C_55] -10.0
+[2019.11.17-12.06.10:601][922]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.10:682][927]LogBlueprintUserMessages: [Enemy_C_53] -10.0
+[2019.11.17-12.06.10:682][927]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.10:843][937]LogBlueprintUserMessages: [Enemy_C_52] 10.0
+[2019.11.17-12.06.10:972][945]LogBlueprintUserMessages: [Enemy_C_52] -10.0
+[2019.11.17-12.06.10:972][945]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.12:375][ 32]LogBlueprintUserMessages: [Ammo_C_1] Ammo
+[2019.11.17-12.06.14:553][167]LogBlueprintUserMessages: [Enemy_C_51] 10.0
+[2019.11.17-12.06.15:924][252]LogBlueprintUserMessages: [Enemy_C_51] -10.0
+[2019.11.17-12.06.15:924][252]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.16:037][259]LogBlueprintUserMessages: [Enemy_C_56] 10.0
+[2019.11.17-12.06.16:617][295]LogCharacterMovement: Enemy_C_57 is stuck and failed to move! Velocity: X=297.50 Y=38.61 Z=0.00 Location: X=1340.63 Y=-117.96 Z=160.19 Normal: X=-0.32 Y=-0.94 Z=-0.06 PenetrationDepth:0.000 Actor:Rifle-2_C_3 Component:rifle BoneName:None (0 other events since notify)
+[2019.11.17-12.06.17:214][332]LogBlueprintUserMessages: [Enemy_C_57] 10.0
+[2019.11.17-12.06.18:070][385]LogBlueprintUserMessages: [Enemy_C_56] -10.0
+[2019.11.17-12.06.20:553][539]LogBlueprintUserMessages: [Enemy_C_54] 10.0
+[2019.11.17-12.06.20:682][547]LogBlueprintUserMessages: [Enemy_C_54] -10.0
+[2019.11.17-12.06.20:682][547]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.21:021][568]LogBlueprintUserMessages: [Enemy_C_57] -10.0
+[2019.11.17-12.06.21:021][568]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.23:989][752]LogBlueprintUserMessages: [Enemy_C_58] 10.0
+[2019.11.17-12.06.24:344][774]LogBlueprintUserMessages: [Enemy_C_58] -10.0
+[2019.11.17-12.06.24:345][774]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.27:214][952]LogBlueprintUserMessages: [Enemy_C_59] 10.0
+[2019.11.17-12.06.27:344][960]LogBlueprintUserMessages: [Enemy_C_59] -10.0
+[2019.11.17-12.06.27:344][960]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.28:150][ 10]LogBlueprintUserMessages: [Enemy_C_60] 10.0
+[2019.11.17-12.06.30:892][180]LogCharacterMovement: Enemy_C_60 is stuck and failed to move! Velocity: X=248.56 Y=167.97 Z=0.00 Location: X=836.78 Y=106.31 Z=160.25 Normal: X=-0.97 Y=-0.26 Z=0.00 PenetrationDepth:0.000 Actor:Rifle-2_C_4 Component:rifle BoneName:None (0 other events since notify)
+[2019.11.17-12.06.30:926][182]LogBlueprintUserMessages: [Enemy_C_60] -10.0
+[2019.11.17-12.06.36:430][523]LogBlueprintUserMessages: [TwinStickMode_C_0] Data Objective
+[2019.11.17-12.06.37:898][614]LogBlueprintUserMessages: [Syringe_C_1] Boost
+[2019.11.17-12.06.40:221][758]LogBlueprintUserMessages: [Enemy_C_61] 10.0
+[2019.11.17-12.06.40:593][781]LogBlueprintUserMessages: [Enemy_C_61] -10.0
+[2019.11.17-12.06.40:593][781]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.44:947][ 51]LogBlueprintUserMessages: [Enemy_C_62] 10.0
+[2019.11.17-12.06.45:802][104]LogBlueprintUserMessages: [Enemy_C_62] -10.0
+[2019.11.17-12.06.45:802][104]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.47:963][238]LogBlueprintUserMessages: [Enemy_C_63] 10.0
+[2019.11.17-12.06.48:754][287]LogBlueprintUserMessages: [Enemy_C_63] -10.0
+[2019.11.17-12.06.53:448][578]LogBlueprintUserMessages: [Enemy_C_65] 10.0
+[2019.11.17-12.06.53:835][602]LogBlueprintUserMessages: [Enemy_C_64] 10.0
+[2019.11.17-12.06.54:173][623]LogBlueprintUserMessages: [Enemy_C_64] -10.0
+[2019.11.17-12.06.54:174][623]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.06.58:512][892]LogBlueprintUserMessages: [Enemy_C_69] 10.0
+[2019.11.17-12.06.58:641][900]LogBlueprintUserMessages: [Enemy_C_69] -10.0
+[2019.11.17-12.06.59:077][927]LogBlueprintUserMessages: [Enemy_C_65] -10.0
+[2019.11.17-12.06.59:077][927]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.03:449][198]LogBlueprintUserMessages: [Enemy_C_66] 10.0
+[2019.11.17-12.07.03:594][207]LogBlueprintUserMessages: [Enemy_C_67] 10.0
+[2019.11.17-12.07.03:723][215]LogBlueprintUserMessages: [Enemy_C_67] -10.0
+[2019.11.17-12.07.03:723][215]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.03:900][226]LogBlueprintUserMessages: [Enemy_C_68] 10.0
+[2019.11.17-12.07.04:061][236]LogBlueprintUserMessages: [Enemy_C_68] -10.0
+[2019.11.17-12.07.04:061][236]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.06:627][395]LogBlueprintUserMessages: [Enemy_C_70] 10.0
+[2019.11.17-12.07.07:449][446]LogBlueprintUserMessages: [Enemy_C_71] 10.0
+[2019.11.17-12.07.07:610][456]LogBlueprintUserMessages: [Enemy_C_71] -10.0
+[2019.11.17-12.07.08:046][483]LogBlueprintUserMessages: [Enemy_C_72] 10.0
+[2019.11.17-12.07.08:191][492]LogBlueprintUserMessages: [Enemy_C_72] -10.0
+[2019.11.17-12.07.08:192][492]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.09:046][545]LogBlueprintUserMessages: [Enemy_C_73] 10.0
+[2019.11.17-12.07.10:111][611]LogBlueprintUserMessages: [Enemy_C_70] -10.0
+[2019.11.17-12.07.10:111][611]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.10:401][629]LogBlueprintUserMessages: [Enemy_C_73] -10.0
+[2019.11.17-12.07.10:401][629]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.13:789][839]LogBlueprintUserMessages: [Enemy_C_66] -25.0
+[2019.11.17-12.07.15:030][916]LogBlueprintUserMessages: [Enemy_C_74] -5.0
+[2019.11.17-12.07.15:030][916]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.16:401][  1]LogBlueprintUserMessages: [Enemy_C_77] -5.0
+[2019.11.17-12.07.16:401][  1]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.18:804][150]LogBlueprintUserMessages: [Enemy_C_75] -5.0
+[2019.11.17-12.07.18:804][150]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.23:160][420]LogBlueprintUserMessages: [Enemy_C_78] -5.0
+[2019.11.17-12.07.23:918][467]LogBlueprintUserMessages: [Enemy_C_76] -5.0
+[2019.11.17-12.07.23:919][467]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.24:967][532]LogBlueprintUserMessages: [Enemy_C_81] -5.0
+[2019.11.17-12.07.24:968][532]LogBlueprintUserMessages: [Ammo_C_4] Ammo
+[2019.11.17-12.07.25:773][582]LogBlueprintUserMessages: [Enemy_C_83] -5.0
+[2019.11.17-12.07.25:773][582]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.28:371][743]LogBlueprintUserMessages: [Enemy_C_79] -5.0
+[2019.11.17-12.07.31:821][957]LogBlueprintUserMessages: [Ammo_C_3] Ammo
+[2019.11.17-12.07.32:935][ 26]LogBlueprintUserMessages: [Enemy_C_82] 10.0
+[2019.11.17-12.07.34:612][130]LogBlueprintUserMessages: [Enemy_C_82] -10.0
+[2019.11.17-12.07.35:290][172]LogBlueprintUserMessages: [Enemy_C_80] 10.0
+[2019.11.17-12.07.35:387][178]LogBlueprintUserMessages: [Enemy_C_80] -10.0
+[2019.11.17-12.07.35:387][178]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.07.38:411][365]LogBlueprintUserMessages: [Enemy_C_84] 10.0
+[2019.11.17-12.07.38:524][372]LogBlueprintUserMessages: [Enemy_C_84] -10.0
+[2019.11.17-12.07.45:298][792]LogBlueprintUserMessages: [Syringe_C_2] Boost
+[2019.11.17-12.07.45:928][831]LogBlueprintUserMessages: [Ammo_C_2] Ammo
+[2019.11.17-12.07.54:170][342]LogBlueprintUserMessages: [Enemy_C_85] -5.0
+[2019.11.17-12.07.55:074][398]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.07.55:074][398]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:074][398]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.07.55:074][398]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:090][399]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.07.55:090][399]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:090][399]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.07.55:090][399]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:106][400]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.07.55:106][400]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:106][400]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.07.55:106][400]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:122][401]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.07.55:122][401]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:122][401]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.07.55:122][401]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:139][402]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.07.55:139][402]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:139][402]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.07.55:139][402]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:154][403]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.07.55:154][403]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:154][403]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.07.55:154][403]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:170][404]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.07.55:170][404]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:171][404]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.07.55:171][404]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:187][405]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.07.55:187][405]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:187][405]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01F7
+[2019.11.17-12.07.55:187][405]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:203][406]LogScript: Warning: Attempted to access Box via property Box, but Box is pending kill
+	Freeze_C /Game/Maps/TestLevel.TestLevel:PersistentLevel.Freeze_C_1
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze:01D6
+[2019.11.17-12.07.55:203][406]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:Timeline_1__UpdateFunc
+	Function /Game/Blueprints/Pickups/Freeze.Freeze_C:ExecuteUbergraph_Freeze
+
+[2019.11.17-12.07.55:283][411]LogBlueprintUserMessages: [Enemy_C_86] -5.0
+[2019.11.17-12.07.56:009][456]LogBlueprintUserMessages: [Enemy_C_87] -5.0
+[2019.11.17-12.07.57:687][560]LogBlueprintUserMessages: [Enemy_C_88] 10.0
+[2019.11.17-12.07.58:155][589]LogBlueprintUserMessages: [Enemy_C_88] -10.0
+[2019.11.17-12.07.58:155][589]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.08.00:977][764]LogBlueprintUserMessages: [Enemy_C_89] 10.0
+[2019.11.17-12.08.01:042][768]LogBlueprintUserMessages: [Freeze_C_1] Freeze
+[2019.11.17-12.08.01:574][801]LogBlueprintUserMessages: [Enemy_C_89] -10.0
+[2019.11.17-12.08.01:574][801]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.08.01:977][826]LogBlueprintUserMessages: [Enemy_C_90] 10.0
+[2019.11.17-12.08.02:348][849]LogBlueprintUserMessages: [Enemy_C_90] -10.0
+[2019.11.17-12.08.02:348][849]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.08.03:059][893]LogBlueprintUserMessages: [Syringe_C_3] Boost
+[2019.11.17-12.08.03:800][939]LogBlueprintUserMessages: [Enemy_C_91] 10.0
+[2019.11.17-12.08.05:219][ 27]LogCharacterMovement: Enemy_C_91 is stuck and failed to move! Velocity: X=-243.46 Y=175.29 Z=0.00 Location: X=182.38 Y=638.31 Z=252.97 Normal: X=-0.25 Y=-0.97 Z=0.00 PenetrationDepth:0.000 Actor:Rifle-2_C_8 Component:rifle BoneName:None (0 other events since notify)
+[2019.11.17-12.08.05:963][ 73]LogBlueprintUserMessages: [Enemy_C_91] -10.0
+[2019.11.17-12.08.05:963][ 73]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.08.08:236][214]LogBlueprintUserMessages: [Enemy_C_92] 10.0
+[2019.11.17-12.08.08:784][248]LogBlueprintUserMessages: [Enemy_C_92] -10.0
+[2019.11.17-12.08.08:784][248]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.08.12:140][456]LogBlueprintUserMessages: [Enemy_C_94] 10.0
+[2019.11.17-12.08.12:833][499]LogBlueprintUserMessages: [Enemy_C_94] -10.0
+[2019.11.17-12.08.12:833][499]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.08.15:688][676]LogBlueprintUserMessages: [Enemy_C_93] 10.0
+[2019.11.17-12.08.15:784][682]LogBlueprintUserMessages: [Enemy_C_93] -10.0
+[2019.11.17-12.08.15:784][682]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.08.15:961][693]LogBlueprintUserMessages: [Enemy_C_95] 10.0
+[2019.11.17-12.08.16:122][703]LogBlueprintUserMessages: [Enemy_C_95] -10.0
+[2019.11.17-12.08.16:123][703]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.08.17:398][782]LogBlueprintUserMessages: [Enemy_C_96] 10.0
+[2019.11.17-12.08.17:527][790]LogBlueprintUserMessages: [Enemy_C_96] -10.0
+[2019.11.17-12.08.17:527][790]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.08.20:801][993]LogBlueprintUserMessages: [Enemy_C_97] 10.0
+[2019.11.17-12.08.20:914][  0]LogBlueprintUserMessages: [Enemy_C_97] -10.0
+[2019.11.17-12.08.21:640][ 45]LogBlueprintUserMessages: [Ammo_C_5] Ammo
+[2019.11.17-12.08.23:962][189]LogBlueprintUserMessages: [Enemy_C_101] 10.0
+[2019.11.17-12.08.24:075][196]LogBlueprintUserMessages: [Enemy_C_101] -10.0
+[2019.11.17-12.08.24:076][196]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.11.17-12.08.25:543][287]LogBlueprintUserMessages: [Enemy_C_100] 10.0
+[2019.11.17-12.08.29:078][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-12.08.55:924][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-12.08.56:134][180]LogPackageName: SearchForPackageOnDisk took   0.048s to resolve MainMenu.umap.
+[2019.11.17-12.08.56:181][180]LogPackageName: SearchForPackageOnDisk took   0.047s to resolve MainMenu.umap.
+[2019.11.17-12.08.56:181][180]LogNet: Browse: /Game/Maps/MainMenu
+[2019.11.17-12.08.56:182][180]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2019.11.17-12.08.56:252][180]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.17-12.08.56:253][180]LogLoad: Game class is 'GameModeBase'
+[2019.11.17-12.08.56:272][180]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.17-12.08.56
+[2019.11.17-12.08.56:272][180]LogWorld: Bringing up level for play took: 0.018370
+[2019.11.17-12.08.56:272][180]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-12.08.56:273][180]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.11.17-12.08.56:274][180]LogLoad: Took 0.091972 seconds to LoadMap(/Game/Maps/MainMenu)
+[2019.11.17-12.08.58:274][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-12.08.58:466][314]LogPackageName: SearchForPackageOnDisk took   0.046s to resolve Settings.umap.
+[2019.11.17-12.08.58:514][314]LogPackageName: SearchForPackageOnDisk took   0.047s to resolve Settings.umap.
+[2019.11.17-12.08.58:514][314]LogNet: Browse: /Game/Maps/Settings
+[2019.11.17-12.08.58:514][314]LogLoad: LoadMap: /Game/Maps/Settings
+[2019.11.17-12.08.58:594][314]LogAIModule: Creating AISystem for world Settings
+[2019.11.17-12.08.58:595][314]LogLoad: Game class is 'GameModeBase'
+[2019.11.17-12.08.58:596][314]LogWorld: Bringing World /Game/Maps/Settings.Settings up for play (max tick rate 0) at 2019.11.17-12.08.58
+[2019.11.17-12.08.58:596][314]LogWorld: Bringing up level for play took: 0.000302
+[2019.11.17-12.08.58:596][314]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-12.08.58:597][314]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.11.17-12.08.58:597][314]LogLoad: Took 0.083384 seconds to LoadMap(/Game/Maps/Settings)
+[2019.11.17-12.09.00:906][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-12.09.01:082][466]LogPackageName: SearchForPackageOnDisk took   0.047s to resolve MainMenu.umap.
+[2019.11.17-12.09.01:128][466]LogPackageName: SearchForPackageOnDisk took   0.046s to resolve MainMenu.umap.
+[2019.11.17-12.09.01:128][466]LogNet: Browse: /Game/Maps/MainMenu
+[2019.11.17-12.09.01:128][466]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2019.11.17-12.09.01:184][466]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.17-12.09.01:185][466]LogLoad: Game class is 'GameModeBase'
+[2019.11.17-12.09.01:190][466]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.17-12.09.01
+[2019.11.17-12.09.01:190][466]LogWorld: Bringing up level for play took: 0.003823
+[2019.11.17-12.09.01:190][466]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.17-12.09.01:191][466]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.11.17-12.09.01:192][466]LogLoad: Took 0.063517 seconds to LoadMap(/Game/Maps/MainMenu)
+[2019.11.17-12.09.20:438][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.17-12.09.20:535][666]Closing by request
+[2019.11.17-12.09.20:535][666]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.11.17-12.09.20:682][667]LogSlate: Window 'TestingTwinShooter (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.11.17-12.09.20:756][667]LogExit: Preparing to exit.
+[2019.11.17-12.09.20:756][667]LogMoviePlayer: Shutting down movie player
+[2019.11.17-12.09.20:770][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.17-12.09.20:780][667]LogExit: Game engine shut down
+[2019.11.17-12.09.20:835][667]LogExit: Object subsystem successfully closed.
+[2019.11.17-12.09.20:853][667]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.17-12.09.20:855][667]LogD3D11RHI: Shutdown
+[2019.11.17-12.09.20:855][667]LogD3D11RHI: CleanupD3DDevice
+[2019.11.17-12.09.20:856][667]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (382)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module SequenceRecorder (380)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module AutomationController (378)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module AutomationWorker (376)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module Voice (374)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module AIModule (372)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module GameplayDebugger (371)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module AITestSuite (369)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module NavigationSystem (367)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (364)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (362)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module WebMMedia (360)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (358)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (356)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (354)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (352)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (350)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module CharacterAI (348)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module SessionServices (346)
+[2019.11.17-12.09.20:861][667]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (344)
+[2019.11.17-12.09.20:862][667]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (342)
+[2019.11.17-12.09.20:862][667]LogModuleManager: Shutting down and abandoning module MovieScene (340)
+[2019.11.17-12.09.20:862][667]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (338)
+[2019.11.17-12.09.20:862][667]LogModuleManager: Shutting down and abandoning module PortalServices (336)
+[2019.11.17-12.09.20:862][667]LogModuleManager: Shutting down and abandoning module PortalRpc (334)
+[2019.11.17-12.09.20:862][667]LogModuleManager: Shutting down and abandoning module MessagingRpc (332)
+[2019.11.17-12.09.20:862][667]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (330)
+[2019.11.17-12.09.20:863][667]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (322)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module OculusInput (320)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (318)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module EditableMesh (316)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (314)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module CableComponent (312)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module AudioCapture (310)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (308)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module AndroidPermission (306)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (304)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (302)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module MediaCompositing (300)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module LinearTimecode (298)
+[2019.11.17-12.09.21:007][667]LogModuleManager: Shutting down and abandoning module ImgMedia (296)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module HTML5Networking (294)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (292)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (291)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module GeometryCache (288)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (287)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module BackChannel (284)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module AppleVision (282)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (280)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module AppleImageUtils (278)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module VariantManagerContent (276)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (274)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module CryptoKeys (272)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (270)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module HotReload (269)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (268)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (264)
+[2019.11.17-12.09.21:010][667]LogModuleManager: Shutting down and abandoning module UObjectPlugin (262)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (260)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (258)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module SourceControl (257)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (254)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (252)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (250)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (248)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module PhysXVehicles (246)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (244)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module ActorSequence (242)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module TcpMessaging (238)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (236)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module FacialAnimation (232)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module DataValidation (230)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module TreeMap (227)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (224)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module AISupportModule (222)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (218)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (216)
+[2019.11.17-12.09.21:011][667]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2019.11.17-12.09.21:012][667]LogModuleManager: Shutting down and abandoning module Media (213)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module PacketHandler (210)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (208)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (206)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module MediaAssets (204)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module Overlay (202)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module OverlayEditor (201)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2019.11.17-12.09.21:018][667]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module Messaging (166)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module Core (156)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module KismetCompiler (152)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module MeshUtilities (150)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (149)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (148)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (147)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (145)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (143)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (141)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module MaterialBaking (137)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (132)
+[2019.11.17-12.09.21:020][667]LogModuleManager: Shutting down and abandoning module DerivedDataCache (130)
+[2019.11.17-12.09.21:031][667]LogDerivedDataCache: Shutdown
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module XGEController (128)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module TargetPlatform (126)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (125)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (123)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (121)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (119)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (117)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (115)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (113)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (111)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (109)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (107)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module ImageWrapper (106)
+[2019.11.17-12.09.21:031][667]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (103)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (101)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (99)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (97)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (95)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (93)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (91)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (89)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.11.17-12.09.21:032][667]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.11.17-12.09.21:032][667]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.11.17-12.09.21:045][667]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.11.17-12.09.21:056][667]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.11.17-12.09.21:058][667]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.11.17-12.09.21:058][667]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.11.17-12.09.21:058][667]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.11.17-12.09.21:058][667]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.11.17-12.09.21:058][667]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.11.17-12.09.21:058][667]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.11.17-12.09.21:058][667]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.11.17-12.09.21:058][667]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.17-12.09.21:058][667]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.11.17-12.09.21:058][667]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.11.17-12.09.21:059][667]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.11.17-12.09.21:063][667]LogExit: Exiting.
+[2019.11.17-12.09.21:074][667]Log file closed, 11/17/19 12:09:21
