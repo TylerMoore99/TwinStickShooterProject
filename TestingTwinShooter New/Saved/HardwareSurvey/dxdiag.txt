@@ -1,9 +1,9 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 10/24/2019, 11:28:08
-             Machine name: TU45324
-               Machine Id: {5DC94E71-2842-4BE0-ABA8-0F1ADCFC0CEE}
+      Time of this report: 11/21/2019, 11:16:38
+             Machine name: TU45325
+               Machine Id: {BB14B9D6-17F5-47F7-932E-3E3A20345FE4}
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 17763) (17763.rs5_release.180914-1434)
                  Language: English (Regional Setting: English)
       System Manufacturer: Hewlett-Packard
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz (12 CPUs), ~3.5GHz
                    Memory: 32768MB RAM
       Available OS Memory: 32684MB RAM
-                Page File: 6237MB used, 31310MB available
+                Page File: 8903MB used, 28644MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -86,7 +86,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
           Block List: No Blocks
   Catalog Attributes: Universal:False Declarative:False 
    Driver Attributes: Final Retail
-    Driver Date/Size: 23/03/2018 01:00:00, 949016 bytes
+    Driver Date/Size: 23/03/2018 00:00:00, 949016 bytes
          WHQL Logo'd: Yes
      WHQL Date Stamp: Unknown
    Device Identifier: {D7B71E3E-5488-11CF-C559-9B331BC2DA35}
@@ -192,7 +192,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
           Block List: No Blocks
   Catalog Attributes: Universal:False Declarative:False 
    Driver Attributes: Final Retail
-    Driver Date/Size: 23/03/2018 01:00:00, 949016 bytes
+    Driver Date/Size: 23/03/2018 00:00:00, 949016 bytes
          WHQL Logo'd: Yes
      WHQL Date Stamp: Unknown
    Device Identifier: {D7B71E3E-5488-11CF-C559-9B331BC2DA35}
@@ -352,7 +352,7 @@ USB Devices
 | Vendor/Product ID: 0x8086, 0x8D31
 | Matching Device ID: USB\ROOT_HUB30
 | Service: USBHUB3
-| Driver: USBHUB3.SYS, 9/15/2018 08:28:19, 586552 bytes
+| Driver: USBHUB3.SYS, 9/15/2018 07:28:19, 586552 bytes
 | 
 +-+ Wacom Tablet
 | | Vendor/Product ID: 0x056A, 0x0303
@@ -360,57 +360,57 @@ USB Devices
 | | Matching Device ID: USB\VID_056A&PID_0303
 | | Upper Filters: mshidkmdf
 | | Service: WacHidRouterPro
-| | Driver: wachidrouter.sys, 8/1/2019 23:06:46, 131736 bytes
-| | Driver: wdfcoinstaller01011.dll, 8/1/2019 23:06:46, 1813400 bytes
+| | Driver: wachidrouter.sys, 8/1/2019 22:06:46, 131736 bytes
+| | Driver: wdfcoinstaller01011.dll, 8/1/2019 22:06:46, 1813400 bytes
 | | 
 | +-+ HID-Compliant Mouse
 | | | Vendor/Product ID: 0x056A, 0x0303
 | | | Matching Device ID: HID\VID_056A&PID_0303&Col01
 | | | Upper Filters: wacomrouterfilter
 | | | Service: mouhid
-| | | Driver: wacomrouterfilter.sys, 5/10/2019 22:26:33, 42544 bytes
-| | | Driver: mouhid.sys, 9/15/2018 08:28:19, 34816 bytes
-| | | Driver: mouclass.sys, 9/15/2018 08:28:19, 61240 bytes
-| | | Driver: wdfcoinstaller01009.dll, 5/10/2019 22:26:55, 1721576 bytes
+| | | Driver: wacomrouterfilter.sys, 5/10/2019 21:26:33, 42544 bytes
+| | | Driver: mouhid.sys, 9/15/2018 07:28:19, 34816 bytes
+| | | Driver: mouclass.sys, 9/15/2018 07:28:19, 61240 bytes
+| | | Driver: wdfcoinstaller01009.dll, 5/10/2019 21:26:55, 1721576 bytes
 | | 
 +-+ USB Composite Device
 | | Vendor/Product ID: 0x03F0, 0x034A
 | | Location: Port_#0011.Hub_#0003
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
-| | Driver: usbccgp.sys, 9/15/2018 08:28:19, 179000 bytes
+| | Driver: usbccgp.sys, 9/15/2018 07:28:19, 179000 bytes
 | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x03F0, 0x034A
 | | | Location: 0000.0014.0000.011.000.000.000.000.000
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
-| | | Driver: hidusb.sys, 9/15/2018 08:28:19, 43520 bytes
-| | | Driver: hidclass.sys, 9/25/2019 08:35:00, 209920 bytes
-| | | Driver: hidparse.sys, 5/13/2019 10:35:51, 46080 bytes
+| | | Driver: hidusb.sys, 9/15/2018 07:28:19, 43520 bytes
+| | | Driver: hidclass.sys, 9/8/2019 02:02:09, 209920 bytes
+| | | Driver: hidparse.sys, 5/13/2019 09:35:51, 46080 bytes
 | | | 
 | | +-+ HID Keyboard Device
 | | | | Vendor/Product ID: 0x03F0, 0x034A
 | | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
 | | | | Service: kbdhid
-| | | | Driver: kbdhid.sys, 3/12/2019 09:29:46, 44544 bytes
-| | | | Driver: kbdclass.sys, 9/15/2018 08:28:19, 67896 bytes
+| | | | Driver: kbdhid.sys, 3/12/2019 08:29:46, 44544 bytes
+| | | | Driver: kbdclass.sys, 9/15/2018 07:28:19, 67896 bytes
 | | 
 +-+ USB Input Device
 | | Vendor/Product ID: 0x03F0, 0x094A
 | | Location: Port_#0012.Hub_#0003
 | | Matching Device ID: USB\Class_03&SubClass_01
 | | Service: HidUsb
-| | Driver: hidusb.sys, 9/15/2018 08:28:19, 43520 bytes
-| | Driver: hidclass.sys, 9/25/2019 08:35:00, 209920 bytes
-| | Driver: hidparse.sys, 5/13/2019 10:35:51, 46080 bytes
+| | Driver: hidusb.sys, 9/15/2018 07:28:19, 43520 bytes
+| | Driver: hidclass.sys, 9/8/2019 02:02:09, 209920 bytes
+| | Driver: hidparse.sys, 5/13/2019 09:35:51, 46080 bytes
 | | 
 | +-+ HID-compliant mouse
 | | | Vendor/Product ID: 0x03F0, 0x094A
 | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
 | | | Service: mouhid
-| | | Driver: mouhid.sys, 9/15/2018 08:28:19, 34816 bytes
-| | | Driver: mouclass.sys, 9/15/2018 08:28:19, 61240 bytes
+| | | Driver: mouhid.sys, 9/15/2018 07:28:19, 34816 bytes
+| | | Driver: mouclass.sys, 9/15/2018 07:28:19, 61240 bytes
 
 ----------------
 Gameport Devices
@@ -424,20 +424,26 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 210.8 GB
+ Free Space: 173.3 GB
 Total Space: 487.4 GB
 File System: NTFS
       Model: MTFDDAK512MBF-1AN1ZABHA
 
       Drive: D:
- Free Space: 1905.3 GB
+ Free Space: 1903.9 GB
 Total Space: 1907.7 GB
 File System: NTFS
       Model: ST2000DM001-1ER164
 
+      Drive: F:
+ Free Space: 567.6 GB
+Total Space: 953.9 GB
+File System: NTFS
+      Model: Seagate M3 SCSI Disk Device
+
       Drive: E:
       Model: hp BDRW   UJ272
-     Driver: c:\windows\system32\drivers\cdrom.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:17, 165888 bytes
+     Driver: c:\windows\system32\drivers\cdrom.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:17, 165888 bytes
 
 --------------
 System Devices
@@ -464,11 +470,11 @@ Device ID: PCI\VEN_8086&DEV_2F98&SUBSYS_2F988086&REV_02\3&103A9D54&0&F0
 
      Name: Standard SATA AHCI Controller
 Device ID: PCI\VEN_8086&DEV_8D02&SUBSYS_212A103C&REV_05\3&11583659&0&FA
-   Driver: C:\WINDOWS\system32\DRIVERS\storahci.sys, 10.00.17763.0168 (English), 1/3/2019 12:16:14, 164344 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\storahci.sys, 10.00.17763.0168 (English), 1/3/2019 11:16:14, 164344 bytes
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #2 - 8D12
 Device ID: PCI\VEN_8086&DEV_8D12&SUBSYS_212A103C&REV_D5\3&11583659&0&E1
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 08:37:16, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DMI2 - 2F00
 Device ID: PCI\VEN_8086&DEV_2F00&SUBSYS_212A103C&REV_02\3&11583659&0&00
@@ -476,7 +482,7 @@ Device ID: PCI\VEN_8086&DEV_2F00&SUBSYS_212A103C&REV_02\3&11583659&0&00
 
      Name: Intel(R) C610 series/X99 chipset LPC Controller - 8D44
 Device ID: PCI\VEN_8086&DEV_8D44&SUBSYS_212A103C&REV_05\3&11583659&0&F8
-   Driver: C:\WINDOWS\system32\DRIVERS\msisadrv.sys, 10.00.17763.0771 (English), 10/23/2019 08:37:16, 18744 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\msisadrv.sys, 10.00.17763.0771 (English), 10/23/2019 07:39:49, 18744 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring - 2F36
 Device ID: PCI\VEN_8086&DEV_2F36&SUBSYS_2F368086&REV_02\3&103A9D54&0&59
@@ -496,7 +502,7 @@ Device ID: PCI\VEN_8086&DEV_2F30&SUBSYS_2F308086&REV_02\3&103A9D54&0&91
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 1 - 2F02
 Device ID: PCI\VEN_8086&DEV_2F02&SUBSYS_00008086&REV_02\3&11583659&0&08
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 08:37:16, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
 
      Name: Intel(R) C610 series/X99 chipset SMBus Controller - 8D22
 Device ID: PCI\VEN_8086&DEV_8D22&SUBSYS_212A103C&REV_05\3&11583659&0&FB
@@ -508,7 +514,7 @@ Device ID: PCI\VEN_8086&DEV_2F81&SUBSYS_2F818086&REV_02\3&103A9D54&0&58
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #5 - 8D18
 Device ID: PCI\VEN_8086&DEV_8D18&SUBSYS_212A103C&REV_D5\3&11583659&0&E4
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 08:37:16, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 System Address Decoder & Broadcast Registers - 2FFE
 Device ID: PCI\VEN_8086&DEV_2FFE&SUBSYS_2FE08086&REV_02\3&103A9D54&0&7E
@@ -528,7 +534,7 @@ Device ID: PCI\VEN_8086&DEV_2FF9&SUBSYS_00000000&REV_02\3&103A9D54&0&79
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #1 - 8D10
 Device ID: PCI\VEN_8086&DEV_8D10&SUBSYS_212A103C&REV_D5\3&11583659&0&E0
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 08:37:16, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 RAS Control Status and Global Errors - 2F2A
 Device ID: PCI\VEN_8086&DEV_2F2A&SUBSYS_00000000&REV_02\3&11583659&0&2A
@@ -544,7 +550,7 @@ Device ID: PCI\VEN_8086&DEV_2F7D&SUBSYS_2F7D8086&REV_02\3&103A9D54&0&86
 
      Name: Intel(R) Management Engine Interface 
 Device ID: PCI\VEN_8086&DEV_8D3A&SUBSYS_212A103C&REV_05\3&11583659&0&B0
-   Driver: C:\WINDOWS\system32\DRIVERS\TeeDriverW8x64.sys, 11.07.0000.1057 (English), 11/28/2017 05:27:38, 206488 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\TeeDriverW8x64.sys, 11.07.0000.1057 (English), 11/28/2017 04:27:38, 206488 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Hot Plug - 2F29
 Device ID: PCI\VEN_8086&DEV_2F29&SUBSYS_00000000&REV_02\3&11583659&0&29
@@ -572,7 +578,7 @@ Device ID: PCI\VEN_8086&DEV_2F1F&SUBSYS_2F1F8086&REV_02\3&103A9D54&0&87
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 3 - 2F08
 Device ID: PCI\VEN_8086&DEV_2F08&SUBSYS_00008086&REV_02\3&11583659&0&18
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 08:37:16, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 ERROR Registers - 2FB7
 Device ID: PCI\VEN_8086&DEV_2FB7&SUBSYS_2FB78086&REV_02\3&103A9D54&0&AB
@@ -588,8 +594,8 @@ Device ID: PCI\VEN_8086&DEV_2FB5&SUBSYS_2FB58086&REV_02\3&103A9D54&0&A9
 
      Name: Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)
 Device ID: PCI\VEN_8086&DEV_8D31&SUBSYS_212A103C&REV_05\3&11583659&0&A0
-   Driver: C:\WINDOWS\system32\DRIVERS\USBXHCI.SYS, 10.00.17763.0592 (English), 7/16/2019 14:28:00, 467984 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\UMDF\UsbXhciCompanion.dll, 10.00.17763.0001 (English), 9/15/2018 08:28:19, 130720 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\USBXHCI.SYS, 10.00.17763.0592 (English), 7/16/2019 13:28:00, 467984 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\UMDF\UsbXhciCompanion.dll, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 130720 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 1 ERROR Registers - 2FB3
 Device ID: PCI\VEN_8086&DEV_2FB3&SUBSYS_2FB38086&REV_02\3&103A9D54&0&A3
@@ -597,7 +603,7 @@ Device ID: PCI\VEN_8086&DEV_2FB3&SUBSYS_2FB38086&REV_02\3&103A9D54&0&A3
 
      Name: PCI-to-PCI Bridge
 Device ID: PCI\VEN_1283&DEV_8893&SUBSYS_212A103C&REV_52\4&2D64E983&0&00E3
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 08:37:16, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
 
      Name: Intel(R) C610 series/X99 chipset SPSR - 8D7C
 Device ID: PCI\VEN_8086&DEV_8D7C&SUBSYS_212A103C&REV_05\3&11583659&0&88
@@ -613,9 +619,9 @@ Device ID: PCI\VEN_8086&DEV_8D3D&SUBSYS_212A103C&REV_05\3&11583659&0&B3
 
      Name: High Definition Audio Controller
 Device ID: PCI\VEN_8086&DEV_8D20&SUBSYS_212A103C&REV_05\3&11583659&0&D8
-   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:15, 104960 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\drmk.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:15, 98304 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\portcls.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:15, 381440 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 104960 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\drmk.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 98304 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\portcls.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 381440 bytes
 
      Name: Intel RSTe Device - 2F9C
 Device ID: PCI\VEN_8086&DEV_2F9C&SUBSYS_2F9C8086&REV_02\3&103A9D54&0&F4
@@ -627,78 +633,78 @@ Device ID: PCI\VEN_8086&DEV_2F9A&SUBSYS_2F9A8086&REV_02\3&103A9D54&0&F2
 
      Name: NVIDIA GeForce GTX 980 Ti
 Device ID: PCI\VEN_10DE&DEV_17C8&SUBSYS_139619DA&REV_A1\4&2A43D483&0&0010
-   Driver: C:\WINDOWS\system32\DRIVERS\NVIDIA Corporation\Drs\dbInstaller.exe, 23.21.0013.9135 (English), 3/25/2018 17:12:56, 473960 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\NVIDIA Corporation\Drs\nvdrsdb.bin, 3/24/2018 02:19:20, 1479692 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\NvContainerSetup.exe, 1.00.0007.0000 (English), 3/25/2018 17:14:08, 4198984 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\NvCplSetupInt.exe, 1.00.0007.0000 (English), 3/25/2018 17:14:10, 101317560 bytes
-   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0224 (English), 3/25/2018 17:14:28, 28760 bytes
-   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvd3d9wrap.dll, 23.21.0013.9135 (English), 3/25/2018 17:08:32, 230608 bytes
-   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvdxgiwrap.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:02, 154520 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0224 (English), 3/25/2018 17:14:30, 29032 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvd3d9wrapx.dll, 23.21.0013.9135 (English), 3/25/2018 17:08:36, 273704 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvdxgiwrapx.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:04, 182080 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 3/24/2018 02:19:20, 27203 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (English), 3/25/2018 17:13:22, 858200 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe, 6.14.0013.9135 (English), 3/25/2018 17:14:20, 428288 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.1.pdf, 3/24/2018 02:19:20, 78094 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.exe, 8.17.0013.9135 (English), 3/25/2018 17:15:02, 519016 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvml.dll, 8.17.0013.9135 (English), 3/25/2018 17:15:52, 928696 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL.dll, 2.00.0004.0000 (English), 3/25/2018 17:17:46, 447576 bytes
-   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL64.dll, 2.00.0004.0000 (English), 3/25/2018 17:17:48, 541784 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvlddmkm.sys, 23.21.0013.9135 (English), 3/25/2018 17:15:46, 17544792 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nv-vk64.json, 3/24/2018 02:19:20, 669 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dumx.dll, 23.21.0013.9135 (English), 3/25/2018 17:08:44, 19144016 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dumx_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 17:08:50, 19537424 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvinitx.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:32, 209128 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:38, 949016 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglshim64.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:46, 184320 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglv64.dll, 23.21.0013.9135 (English), 3/25/2018 17:16:08, 35672992 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvumdshimx.dll, 23.21.0013.9135 (English), 3/25/2018 17:10:14, 591024 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2umx.dll, 23.21.0013.9135 (English), 3/25/2018 17:10:24, 29320768 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2umx_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 17:10:32, 30160792 bytes
-   Driver: C:\WINDOWS\system32\NvFBC64.dll, 6.14.0013.9135 (English), 3/25/2018 17:14:42, 1138720 bytes
-   Driver: C:\WINDOWS\system32\NvIFR64.dll, 6.14.0013.9135 (English), 3/25/2018 17:15:30, 998424 bytes
-   Driver: C:\WINDOWS\system32\NvIFROpenGL.dll, 23.21.0013.9135 (English), 3/25/2018 17:15:34, 625504 bytes
-   Driver: C:\WINDOWS\system32\nvDecMFTMjpeg.dll, 23.21.0013.9135 (English), 3/25/2018 17:14:24, 749312 bytes
-   Driver: C:\WINDOWS\system32\nvEncMFTH264.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:10, 1346128 bytes
-   Driver: C:\WINDOWS\system32\nvEncMFThevc.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:16, 1355216 bytes
-   Driver: C:\WINDOWS\system32\nvEncodeAPI64.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:22, 811808 bytes
-   Driver: C:\WINDOWS\system32\nvapi64.dll, 23.21.0013.9135 (English), 3/25/2018 17:08:20, 4633920 bytes
-   Driver: C:\WINDOWS\system32\nvcompiler.dll, 23.21.0013.9135 (English), 3/25/2018 17:13:58, 40278608 bytes
-   Driver: C:\WINDOWS\system32\nvcuda.dll, 23.21.0013.9135 (English), 3/25/2018 17:08:28, 12967056 bytes
-   Driver: C:\WINDOWS\system32\nvcuvid.dll, 7.17.0013.9135 (English), 3/25/2018 17:14:16, 4318112 bytes
-   Driver: C:\WINDOWS\system32\nvfatbinaryLoader.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:28, 1153744 bytes
-   Driver: C:\WINDOWS\system32\nvinfo.pb, 3/24/2018 02:19:20, 48407 bytes
-   Driver: C:\WINDOWS\system32\nvmcumd.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:40, 633040 bytes
-   Driver: C:\WINDOWS\system32\nvopencl.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:54, 19855144 bytes
-   Driver: C:\WINDOWS\system32\nvptxJitCompiler.dll, 23.21.0013.9135 (English), 3/25/2018 17:10:06, 13571520 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nv-vk32.json, 3/24/2018 02:19:20, 669 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dum.dll, 23.21.0013.9135 (English), 3/25/2018 17:08:38, 15736160 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dum_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 17:08:56, 16060264 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvinit.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:30, 182592 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumd.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:36, 790760 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglshim32.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:44, 156056 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglv32.dll, 23.21.0013.9135 (English), 3/25/2018 17:16:00, 28241768 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvumdshim.dll, 23.21.0013.9135 (English), 3/25/2018 17:10:10, 507904 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2um.dll, 23.21.0013.9135 (English), 3/25/2018 17:10:16, 24841952 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2um_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 17:10:40, 25753144 bytes
-   Driver: C:\WINDOWS\SysWow64\NvFBC.dll, 6.14.0013.9135 (English), 3/25/2018 17:14:38, 1065888 bytes
-   Driver: C:\WINDOWS\SysWow64\NvIFR.dll, 6.14.0013.9135 (English), 3/25/2018 17:15:26, 950016 bytes
-   Driver: C:\WINDOWS\SysWow64\NvIFROpenGL.dll, 23.21.0013.9135 (English), 3/25/2018 17:15:32, 516024 bytes
-   Driver: C:\WINDOWS\SysWow64\nvDecMFTMjpeg.dll, 23.21.0013.9135 (English), 3/25/2018 17:14:22, 608344 bytes
-   Driver: C:\WINDOWS\SysWow64\nvEncMFTH264.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:08, 1061352 bytes
-   Driver: C:\WINDOWS\SysWow64\nvEncMFThevc.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:14, 1067560 bytes
-   Driver: C:\WINDOWS\SysWow64\nvEncodeAPI.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:18, 650232 bytes
-   Driver: C:\WINDOWS\SysWow64\nvapi.dll, 23.21.0013.9135 (English), 3/25/2018 17:08:16, 3939624 bytes
-   Driver: C:\WINDOWS\SysWow64\nvcompiler.dll, 23.21.0013.9135 (English), 3/25/2018 17:13:50, 35188992 bytes
-   Driver: C:\WINDOWS\SysWow64\nvcuda.dll, 23.21.0013.9135 (English), 3/25/2018 17:08:24, 11001504 bytes
-   Driver: C:\WINDOWS\SysWow64\nvcuvid.dll, 7.17.0013.9135 (English), 3/25/2018 17:14:14, 3719096 bytes
-   Driver: C:\WINDOWS\SysWow64\nvfatbinaryLoader.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:24, 902096 bytes
-   Driver: C:\WINDOWS\SysWow64\nvopencl.dll, 23.21.0013.9135 (English), 3/25/2018 17:09:48, 16496776 bytes
-   Driver: C:\WINDOWS\SysWow64\nvptxJitCompiler.dll, 23.21.0013.9135 (English), 3/25/2018 17:10:00, 11132384 bytes
-   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\VulkanRT-Installer.exe, 1.00.0065.0001 (English), 3/25/2018 17:18:08, 989576 bytes
-   Driver: C:\WINDOWS\system32\nvdispco6439135.dll, 2.00.0049.0004 (English), 3/25/2018 17:14:34, 1985112 bytes
-   Driver: C:\WINDOWS\system32\nvdispgenco6439135.dll, 2.00.0026.0002 (English), 3/25/2018 17:14:36, 1683712 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\NVIDIA Corporation\Drs\dbInstaller.exe, 23.21.0013.9135 (English), 3/25/2018 16:12:56, 473960 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\NVIDIA Corporation\Drs\nvdrsdb.bin, 3/24/2018 01:19:20, 1479692 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\NvContainerSetup.exe, 1.00.0007.0000 (English), 3/25/2018 16:14:08, 4198984 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\NvCplSetupInt.exe, 1.00.0007.0000 (English), 3/25/2018 16:14:10, 101317560 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0224 (English), 3/25/2018 16:14:28, 28760 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvd3d9wrap.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:32, 230608 bytes
+   Driver: C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvdxgiwrap.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:02, 154520 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\detoured.dll, 2.01.0000.0224 (English), 3/25/2018 16:14:30, 29032 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvd3d9wrapx.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:36, 273704 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\coprocmanager\nvdxgiwrapx.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:04, 182080 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 3/24/2018 01:19:20, 27203 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (English), 3/25/2018 16:13:22, 858200 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe, 6.14.0013.9135 (English), 3/25/2018 16:14:20, 428288 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.1.pdf, 3/24/2018 01:19:20, 78094 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.exe, 8.17.0013.9135 (English), 3/25/2018 16:15:02, 519016 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvml.dll, 8.17.0013.9135 (English), 3/25/2018 16:15:52, 928696 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL.dll, 2.00.0004.0000 (English), 3/25/2018 16:17:46, 447576 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\OpenCL\OpenCL64.dll, 2.00.0004.0000 (English), 3/25/2018 16:17:48, 541784 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvlddmkm.sys, 23.21.0013.9135 (English), 3/25/2018 16:15:46, 17544792 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nv-vk64.json, 3/24/2018 01:19:20, 669 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dumx.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:44, 19144016 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dumx_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:50, 19537424 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvinitx.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:32, 209128 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumdx.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:38, 949016 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglshim64.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:46, 184320 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglv64.dll, 23.21.0013.9135 (English), 3/25/2018 16:16:08, 35672992 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvumdshimx.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:14, 591024 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2umx.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:24, 29320768 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2umx_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:32, 30160792 bytes
+   Driver: C:\WINDOWS\system32\NvFBC64.dll, 6.14.0013.9135 (English), 3/25/2018 16:14:42, 1138720 bytes
+   Driver: C:\WINDOWS\system32\NvIFR64.dll, 6.14.0013.9135 (English), 3/25/2018 16:15:30, 998424 bytes
+   Driver: C:\WINDOWS\system32\NvIFROpenGL.dll, 23.21.0013.9135 (English), 3/25/2018 16:15:34, 625504 bytes
+   Driver: C:\WINDOWS\system32\nvDecMFTMjpeg.dll, 23.21.0013.9135 (English), 3/25/2018 16:14:24, 749312 bytes
+   Driver: C:\WINDOWS\system32\nvEncMFTH264.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:10, 1346128 bytes
+   Driver: C:\WINDOWS\system32\nvEncMFThevc.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:16, 1355216 bytes
+   Driver: C:\WINDOWS\system32\nvEncodeAPI64.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:22, 811808 bytes
+   Driver: C:\WINDOWS\system32\nvapi64.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:20, 4633920 bytes
+   Driver: C:\WINDOWS\system32\nvcompiler.dll, 23.21.0013.9135 (English), 3/25/2018 16:13:58, 40278608 bytes
+   Driver: C:\WINDOWS\system32\nvcuda.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:28, 12967056 bytes
+   Driver: C:\WINDOWS\system32\nvcuvid.dll, 7.17.0013.9135 (English), 3/25/2018 16:14:16, 4318112 bytes
+   Driver: C:\WINDOWS\system32\nvfatbinaryLoader.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:28, 1153744 bytes
+   Driver: C:\WINDOWS\system32\nvinfo.pb, 3/24/2018 01:19:20, 48407 bytes
+   Driver: C:\WINDOWS\system32\nvmcumd.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:40, 633040 bytes
+   Driver: C:\WINDOWS\system32\nvopencl.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:54, 19855144 bytes
+   Driver: C:\WINDOWS\system32\nvptxJitCompiler.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:06, 13571520 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nv-vk32.json, 3/24/2018 01:19:20, 669 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dum.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:38, 15736160 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvd3dum_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:56, 16060264 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvinit.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:30, 182592 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvldumd.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:36, 790760 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglshim32.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:44, 156056 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvoglv32.dll, 23.21.0013.9135 (English), 3/25/2018 16:16:00, 28241768 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvumdshim.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:10, 507904 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2um.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:16, 24841952 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\nvwgf2um_cfg.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:40, 25753144 bytes
+   Driver: C:\WINDOWS\SysWow64\NvFBC.dll, 6.14.0013.9135 (English), 3/25/2018 16:14:38, 1065888 bytes
+   Driver: C:\WINDOWS\SysWow64\NvIFR.dll, 6.14.0013.9135 (English), 3/25/2018 16:15:26, 950016 bytes
+   Driver: C:\WINDOWS\SysWow64\NvIFROpenGL.dll, 23.21.0013.9135 (English), 3/25/2018 16:15:32, 516024 bytes
+   Driver: C:\WINDOWS\SysWow64\nvDecMFTMjpeg.dll, 23.21.0013.9135 (English), 3/25/2018 16:14:22, 608344 bytes
+   Driver: C:\WINDOWS\SysWow64\nvEncMFTH264.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:08, 1061352 bytes
+   Driver: C:\WINDOWS\SysWow64\nvEncMFThevc.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:14, 1067560 bytes
+   Driver: C:\WINDOWS\SysWow64\nvEncodeAPI.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:18, 650232 bytes
+   Driver: C:\WINDOWS\SysWow64\nvapi.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:16, 3939624 bytes
+   Driver: C:\WINDOWS\SysWow64\nvcompiler.dll, 23.21.0013.9135 (English), 3/25/2018 16:13:50, 35188992 bytes
+   Driver: C:\WINDOWS\SysWow64\nvcuda.dll, 23.21.0013.9135 (English), 3/25/2018 16:08:24, 11001504 bytes
+   Driver: C:\WINDOWS\SysWow64\nvcuvid.dll, 7.17.0013.9135 (English), 3/25/2018 16:14:14, 3719096 bytes
+   Driver: C:\WINDOWS\SysWow64\nvfatbinaryLoader.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:24, 902096 bytes
+   Driver: C:\WINDOWS\SysWow64\nvopencl.dll, 23.21.0013.9135 (English), 3/25/2018 16:09:48, 16496776 bytes
+   Driver: C:\WINDOWS\SysWow64\nvptxJitCompiler.dll, 23.21.0013.9135 (English), 3/25/2018 16:10:00, 11132384 bytes
+   Driver: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_c1a085cc86772d3f\VulkanRT-Installer.exe, 1.00.0065.0001 (English), 3/25/2018 16:18:08, 989576 bytes
+   Driver: C:\WINDOWS\system32\nvdispco6439135.dll, 2.00.0049.0004 (English), 3/25/2018 16:14:34, 1985112 bytes
+   Driver: C:\WINDOWS\system32\nvdispgenco6439135.dll, 2.00.0026.0002 (English), 3/25/2018 16:14:36, 1683712 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder - 2FAD
 Device ID: PCI\VEN_8086&DEV_2FAD&SUBSYS_2FAD8086&REV_02\3&103A9D54&0&9D
@@ -710,7 +716,7 @@ Device ID: PCI\VEN_8086&DEV_2F68&SUBSYS_00000000&REV_02\3&103A9D54&0&B0
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #4 - 8D16
 Device ID: PCI\VEN_8086&DEV_8D16&SUBSYS_212A103C&REV_D5\3&11583659&0&E3
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 08:37:16, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 System Address Decoder & Broadcast Registers - 2FFC
 Device ID: PCI\VEN_8086&DEV_2FFC&SUBSYS_2FE08086&REV_02\3&103A9D54&0&7C
@@ -726,7 +732,7 @@ Device ID: PCI\VEN_8086&DEV_2F99&SUBSYS_2F998086&REV_02\3&103A9D54&0&F1
 
      Name: Standard SATA AHCI Controller
 Device ID: PCI\VEN_8086&DEV_8D62&SUBSYS_212A103C&REV_05\3&11583659&0&8C
-   Driver: C:\WINDOWS\system32\DRIVERS\storahci.sys, 10.00.17763.0168 (English), 1/3/2019 12:16:14, 164344 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\storahci.sys, 10.00.17763.0168 (English), 1/3/2019 11:16:14, 164344 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO (VMSE) 2 & 3 - 2FB8
 Device ID: PCI\VEN_8086&DEV_2FB8&SUBSYS_00000000&REV_02\3&103A9D54&0&BC
@@ -738,9 +744,9 @@ Device ID: PCI\VEN_8086&DEV_2FA8&SUBSYS_2FA88086&REV_02\3&103A9D54&0&98
 
      Name: High Definition Audio Controller
 Device ID: PCI\VEN_10DE&DEV_0FB0&SUBSYS_139619DA&REV_A1\4&2A43D483&0&0110
-   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:15, 104960 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\drmk.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:15, 98304 bytes
-   Driver: C:\WINDOWS\system32\DRIVERS\portcls.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:15, 381440 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\hdaudbus.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 104960 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\drmk.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 98304 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\portcls.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:15, 381440 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring - 2F37
 Device ID: PCI\VEN_8086&DEV_2F37&SUBSYS_2F378086&REV_02\3&103A9D54&0&5A
@@ -760,9 +766,9 @@ Device ID: PCI\VEN_8086&DEV_2F88&SUBSYS_00000000&REV_02\3&103A9D54&0&F8
 
      Name: Intel(R) C610 series/X99 chipset USB Enhanced Host Controller #1 - 8D26
 Device ID: PCI\VEN_8086&DEV_8D26&SUBSYS_212A103C&REV_05\3&11583659&0&E8
-   Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:19, 99128 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:19, 475960 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:19, 535352 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 99128 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 475960 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 535352 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO Global Broadcast - 2F6F
 Device ID: PCI\VEN_8086&DEV_2F6F&SUBSYS_00000000&REV_02\3&103A9D54&0&B7
@@ -782,9 +788,9 @@ Device ID: PCI\VEN_8086&DEV_2FAE&SUBSYS_00000000&REV_02\3&103A9D54&0&9E
 
      Name: Intel(R) C610 series/X99 chipset USB Enhanced Host Controller #2 - 8D2D
 Device ID: PCI\VEN_8086&DEV_8D2D&SUBSYS_212A103C&REV_05\3&11583659&0&D0
-   Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:19, 99128 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:19, 475960 bytes
-   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.17763.0001 (English), 9/15/2018 08:28:19, 535352 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbehci.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 99128 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbport.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 475960 bytes
+   Driver: C:\WINDOWS\system32\drivers\usbhub.sys, 10.00.17763.0001 (English), 9/15/2018 07:28:19, 535352 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Unicast Registers - 2FE4
 Device ID: PCI\VEN_8086&DEV_2FE4&SUBSYS_2FE48086&REV_02\3&103A9D54&0&64
@@ -824,7 +830,7 @@ Device ID: PCI\VEN_8086&DEV_2FB4&SUBSYS_2FB48086&REV_02\3&103A9D54&0&A8
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 2 - 2F04
 Device ID: PCI\VEN_8086&DEV_2F04&SUBSYS_00008086&REV_02\3&11583659&0&10
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 08:37:16, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO (VMSE) 2 & 3 - 2FB9
 Device ID: PCI\VEN_8086&DEV_2FB9&SUBSYS_00000000&REV_02\3&103A9D54&0&BD
@@ -832,11 +838,11 @@ Device ID: PCI\VEN_8086&DEV_2FB9&SUBSYS_00000000&REV_02\3&103A9D54&0&BD
 
      Name: Intel(R) Ethernet Connection (2) I218-LM
 Device ID: PCI\VEN_8086&DEV_15A0&SUBSYS_2129103C&REV_05\3&11583659&0&C8
-   Driver: C:\WINDOWS\system32\DRIVERS\e1d65x64.sys, 12.17.0008.0009 (English), 1/31/2018 11:46:16, 555560 bytes
-   Driver: C:\WINDOWS\system32\e1d65x64.din, 1/31/2018 11:46:16, 3130 bytes
-   Driver: C:\WINDOWS\system32\NicCo4.dll, 4.02.0003.0000 (English), 1/31/2018 11:46:16, 134416 bytes
-   Driver: C:\WINDOWS\system32\NicInstD.dll, 9.12.0020.0000 (English), 1/31/2018 11:46:16, 100304 bytes
-   Driver: C:\WINDOWS\system32\e1dmsg.dll, 10.00.0768.0000 (English), 1/31/2018 11:46:16, 88616 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\e1d65x64.sys, 12.17.0008.0009 (English), 1/31/2018 10:46:16, 555560 bytes
+   Driver: C:\WINDOWS\system32\e1d65x64.din, 1/31/2018 10:46:16, 3130 bytes
+   Driver: C:\WINDOWS\system32\NicCo4.dll, 4.02.0003.0000 (English), 1/31/2018 10:46:16, 134416 bytes
+   Driver: C:\WINDOWS\system32\NicInstD.dll, 9.12.0020.0000 (English), 1/31/2018 10:46:16, 100304 bytes
+   Driver: C:\WINDOWS\system32\e1dmsg.dll, 10.00.0768.0000 (English), 1/31/2018 10:46:16, 88616 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 0 ERROR Registers - 2FB2
 Device ID: PCI\VEN_8086&DEV_2FB2&SUBSYS_2FB28086&REV_02\3&103A9D54&0&A2
@@ -1093,9 +1099,9 @@ Video Decoders:
   MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.17763.0001
   Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject, 0x1, mp43decd.dll, 10.00.17763.0001
   Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.17763.0001
-  WebpImageExtension
-  HEIFImageExtension
   VP9VideoExtensionDecoder
+  HEIFImageExtension
+  WebpImageExtension
 Video Encoders:
   NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264.dll, 23.21.0013.9135
   NVIDIA HEVC Encoder MFT, {966F107C-8EA2-425D-B822-E4A71BEF01D7}, 0x4, 8, nvEncMFThevc.dll, 23.21.0013.9135
@@ -1104,8 +1110,8 @@ Video Encoders:
   H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.17763.0001
   WMVideo9 Encoder MFT, CLSID_CWMV9EncMediaObject, 0x1, wmvencod.dll, 10.00.17763.0001
   Microsoft MPEG-2 Video Encoder MFT, {E6335F02-80B7-4DC4-ADFA-DFE7210D20D5}, 0x2, msmpeg2enc.dll, 10.00.17763.0001
-  HEIFImageExtension
   VP9VideoExtensionEncoder
+  HEIFImageExtension
 Video Effects:
   Frame Rate Converter, CLSID_CFrameRateConvertDmo, 0x1, mfvdsp.dll, 10.00.17763.0001
   Resizer MFT, CLSID_CResizerDMO, 0x1, vidreszr.dll, 10.00.17763.0001
@@ -1417,56 +1423,56 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 2294739551324222425, type 5
-Event Name: WindowsWcpOtherFailure3
+Fault bucket 1407747373434718985, type 4
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.17763.733:1
-P2: inc\auto_hive.h
-P3: Windows::Rtl::AutoHive::Unload
-P4: 358
-P5: c0000121
-P6: 0x8414d9ab
-P7: 
-P8: 
+P1: svchost.exe_AppReadiness
+P2: 10.0.17763.1
+P3: b900eeff
+P4: PGHook.dll
+P5: 5.2.21.0
+P6: 5b76d269
+P7: c00000fd
+P8: 0000000000090066
 P9: 
 P10: 
 
 
 +++ WER1 +++:
-Fault bucket , type 0
-Event Name: WindowsWcpOtherFailure3
+Fault bucket 1335203629355180072, type 4
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.17763.733:1
-P2: inc\auto_hive.h
-P3: Windows::Rtl::AutoHive::Unload
-P4: 358
-P5: c0000121
-P6: 0x8414d9ab
-P7: 
-P8: 
+P1: BackgroundDownload.exe
+P2: 2.1.3096.46871
+P3: 5cf97562
+P4: KERNELBASE.dll
+P5: 10.0.17763.802
+P6: 86aa4cf5
+P7: e0434352
+P8: 0000000000039129
 P9: 
 P10: 
 
 
 +++ WER2 +++:
-Fault bucket , type 0
-Event Name: WindowsWcpOtherFailure3
+Fault bucket 1755681672776680174, type 5
+Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.17763.733:1
-P2: inc\auto_hive.h
-P3: Windows::Rtl::AutoHive::Unload
-P4: 358
-P5: c0000121
-P6: 0x8414d9ab
+P1: Unity.exe
+P2: 2019.1.11.29
+P3: 10.0.17763.2.0.0
+P4: 
+P5: 
+P6: 
 P7: 
 P8: 
 P9: 
@@ -1474,121 +1480,121 @@ P10:
 
 
 +++ WER3 +++:
-Fault bucket 1805187731462795920, type 5
-Event Name: MpTelemetry
+Fault bucket 1337438858156895391, type 5
+Event Name: StoreAgentInstallFailure1
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 0x80509004
-P2: ValidateUpdate
-P3: N/A
-P4: 1.1.16200.1
-P5: mpsigstub.exe
-P6: 4.18.1910.4
-P7: Microsoft Windows Defender (RS1+)
+P1: Update;ScanForUpdatesForUser
+P2: 80246007
+P3: 17763
+P4: 805
+P5: Windows.Desktop
+P6: P
+P7: 
 P8: 
 P9: 
 P10: 
 
 
 +++ WER4 +++:
-Fault bucket 2289177297386158702, type 4
-Event Name: APPCRASH
+Fault bucket , type 0
+Event Name: StoreAgentInstallFailure1
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: wmiprvse.exe
-P2: 10.0.17763.1
-P3: dd9b741c
-P4: AssetAdvisor.dll
-P5: 5.0.8790.1000
-P6: 5c6fa2f3
-P7: c0000005
-P8: 000000000003c867
+P1: Update;ScanForUpdatesForUser
+P2: 80246007
+P3: 17763
+P4: 805
+P5: Windows.Desktop
+P6: P
+P7: 
+P8: 
 P9: 
 P10: 
 
 
 +++ WER5 +++:
-Fault bucket 2289177297386158702, type 4
+Fault bucket 1407747373434718985, type 4
 Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: wmiprvse.exe
+P1: svchost.exe_AppReadiness
 P2: 10.0.17763.1
-P3: dd9b741c
-P4: AssetAdvisor.dll
-P5: 5.0.8790.1000
-P6: 5c6fa2f3
-P7: c0000005
-P8: 000000000003c867
+P3: b900eeff
+P4: PGHook.dll
+P5: 5.2.21.0
+P6: 5b76d269
+P7: c00000fd
+P8: 0000000000090066
 P9: 
 P10: 
 
 
 +++ WER6 +++:
-Fault bucket 2289177297386158702, type 4
-Event Name: APPCRASH
+Fault bucket , type 0
+Event Name: POFContextAppCrash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: wmiprvse.exe
-P2: 10.0.17763.1
-P3: dd9b741c
-P4: AssetAdvisor.dll
-P5: 5.0.8790.1000
-P6: 5c6fa2f3
-P7: c0000005
-P8: 000000000003c867
+P1: Microsoft.YourPhone_1.19102.525.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 1.19102.525.0
+P4: 0x802b000a
+P5: 1dd19d45cbeb98622209ce09048d290f
+P6: 
+P7: 
+P8: 
 P9: 
 P10: 
 
 
 +++ WER7 +++:
-Fault bucket 2289177297386158702, type 4
-Event Name: APPCRASH
+Fault bucket , type 0
+Event Name: POFContextAppCrash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: wmiprvse.exe
-P2: 10.0.17763.1
-P3: dd9b741c
-P4: AssetAdvisor.dll
-P5: 5.0.8790.1000
-P6: 5c6fa2f3
-P7: c0000005
-P8: 000000000003c867
+P1: Microsoft.YourPhone_1.19102.525.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 1.19102.525.0
+P4: 0x802b000a
+P5: 1dd19d45cbeb98622209ce09048d290f
+P6: 
+P7: 
+P8: 
 P9: 
 P10: 
 
 
 +++ WER8 +++:
-Fault bucket 2289177297386158702, type 4
-Event Name: APPCRASH
+Fault bucket 2081376523796954677, type 5
+Event Name: MoAppCrash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: wmiprvse.exe
-P2: 10.0.17763.1
-P3: dd9b741c
-P4: AssetAdvisor.dll
-P5: 5.0.8790.1000
-P6: 5c6fa2f3
-P7: c0000005
-P8: 000000000003c867
-P9: 
+P1: Microsoft.YourPhone_1.19102.525.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 1.19102.525.0
+P4: 5dbcd5ca
+P5: combase.dll
+P6: 10.0.17763.737
+P7: c366780e
+P8: 802b000a
+P9: 000000000003629a
 P10: 
 
 
 +++ WER9 +++:
-Fault bucket 1629267633834755203, type 4
+Fault bucket 1474811588607959287, type 4
 Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
@@ -1597,11 +1603,11 @@ Problem signature:
 P1: wmiprvse.exe
 P2: 10.0.17763.1
 P3: dd9b741c
-P4: msi.dll
-P5: 5.0.17763.557
-P6: 1df03444
+P4: ccmcore.dll
+P5: 5.0.8790.1000
+P6: 5c6fa064
 P7: c0000005
-P8: 00000000003920af
+P8: 00000000000369e8
 P9: 
 P10: 
 
