@@ -1,9 +1,9 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 11/28/2019, 12:41:42
-             Machine name: TU45325
-               Machine Id: {BB14B9D6-17F5-47F7-932E-3E3A20345FE4}
+      Time of this report: 12/6/2019, 15:48:26
+             Machine name: TU45379
+               Machine Id: {C3B871E0-9FCB-42FF-B09D-28F3DEC2A06C}
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 17763) (17763.rs5_release.180914-1434)
                  Language: English (Regional Setting: English)
       System Manufacturer: Hewlett-Packard
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz (12 CPUs), ~3.5GHz
                    Memory: 32768MB RAM
       Available OS Memory: 32684MB RAM
-                Page File: 7011MB used, 30537MB available
+                Page File: 9567MB used, 27981MB available
               Windows Dir: C:\WINDOWS
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -167,7 +167,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
          HDR Support: Not Supported
     Display Topology: Extend
  Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
-     Color Primaries: Red(0.644531,0.335938), Green(0.328125,0.615234), Blue(0.146484,0.054688), White Point(0.313477,0.329102)
+     Color Primaries: Red(0.653320,0.332031), Green(0.303711,0.632813), Blue(0.150391,0.064453), White Point(0.313477,0.329102)
    Display Luminance: Min Luminance = 0.500000, Max Luminance = 270.000000, MaxFullFrameLuminance = 270.000000
         Monitor Name: Generic PnP Monitor
        Monitor Model: HP E242
@@ -313,10 +313,10 @@ Vendor/Product ID: n/a
 Vendor/Product ID: 0x056A, 0x0303
         FF Driver: n/a
 
-      Device Name: HP Elite USB Keyboard
+      Device Name: Wacom Tablet
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x03F0, 0x034A
+Vendor/Product ID: 0x056A, 0x0303
         FF Driver: n/a
 
       Device Name: Wacom Tablet
@@ -331,10 +331,10 @@ Vendor/Product ID: 0x056A, 0x0303
 Vendor/Product ID: 0x03F0, 0x034A
         FF Driver: n/a
 
-      Device Name: Wacom Tablet
+      Device Name: HP Elite USB Keyboard
          Attached: 1
     Controller ID: 0x0
-Vendor/Product ID: 0x056A, 0x0303
+Vendor/Product ID: 0x03F0, 0x034A
         FF Driver: n/a
 
       Device Name: Controller (XBOX 360 For Windows)
@@ -356,7 +356,7 @@ USB Devices
 | 
 +-+ Wacom Tablet
 | | Vendor/Product ID: 0x056A, 0x0303
-| | Location: Port_#0006.Hub_#0003
+| | Location: Port_#0003.Hub_#0003
 | | Matching Device ID: USB\VID_056A&PID_0303
 | | Upper Filters: mshidkmdf
 | | Service: WacHidRouterPro
@@ -373,36 +373,13 @@ USB Devices
 | | | Driver: mouclass.sys, 9/15/2018 07:28:19, 61240 bytes
 | | | Driver: wdfcoinstaller01009.dll, 5/10/2019 21:26:55, 1721576 bytes
 | | 
-+-+ USB Composite Device
-| | Vendor/Product ID: 0x03F0, 0x034A
-| | Location: Port_#0011.Hub_#0003
-| | Matching Device ID: USB\COMPOSITE
-| | Service: usbccgp
-| | Driver: usbccgp.sys, 9/15/2018 07:28:19, 179000 bytes
-| | 
-| +-+ USB Input Device
-| | | Vendor/Product ID: 0x03F0, 0x034A
-| | | Location: 0000.0014.0000.011.000.000.000.000.000
-| | | Matching Device ID: USB\Class_03&SubClass_01
-| | | Service: HidUsb
-| | | Driver: hidusb.sys, 9/15/2018 07:28:19, 43520 bytes
-| | | Driver: hidclass.sys, 9/8/2019 02:02:09, 209920 bytes
-| | | Driver: hidparse.sys, 5/13/2019 09:35:51, 46080 bytes
-| | | 
-| | +-+ HID Keyboard Device
-| | | | Vendor/Product ID: 0x03F0, 0x034A
-| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
-| | | | Service: kbdhid
-| | | | Driver: kbdhid.sys, 3/12/2019 08:29:46, 44544 bytes
-| | | | Driver: kbdclass.sys, 9/15/2018 07:28:19, 67896 bytes
-| | 
 +-+ USB Input Device
 | | Vendor/Product ID: 0x03F0, 0x094A
-| | Location: Port_#0012.Hub_#0003
+| | Location: Port_#0006.Hub_#0003
 | | Matching Device ID: USB\Class_03&SubClass_01
 | | Service: HidUsb
 | | Driver: hidusb.sys, 9/15/2018 07:28:19, 43520 bytes
-| | Driver: hidclass.sys, 9/8/2019 02:02:09, 209920 bytes
+| | Driver: hidclass.sys, 9/27/2019 07:57:09, 209920 bytes
 | | Driver: hidparse.sys, 5/13/2019 09:35:51, 46080 bytes
 | | 
 | +-+ HID-compliant mouse
@@ -411,6 +388,29 @@ USB Devices
 | | | Service: mouhid
 | | | Driver: mouhid.sys, 9/15/2018 07:28:19, 34816 bytes
 | | | Driver: mouclass.sys, 9/15/2018 07:28:19, 61240 bytes
+| | 
++-+ USB Composite Device
+| | Vendor/Product ID: 0x03F0, 0x034A
+| | Location: Port_#0012.Hub_#0003
+| | Matching Device ID: USB\COMPOSITE
+| | Service: usbccgp
+| | Driver: usbccgp.sys, 9/15/2018 07:28:19, 179000 bytes
+| | 
+| +-+ USB Input Device
+| | | Vendor/Product ID: 0x03F0, 0x034A
+| | | Location: 0000.0014.0000.012.000.000.000.000.000
+| | | Matching Device ID: USB\Class_03&SubClass_01
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 9/15/2018 07:28:19, 43520 bytes
+| | | Driver: hidclass.sys, 9/27/2019 07:57:09, 209920 bytes
+| | | Driver: hidparse.sys, 5/13/2019 09:35:51, 46080 bytes
+| | | 
+| | +-+ HID Keyboard Device
+| | | | Vendor/Product ID: 0x03F0, 0x034A
+| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | Service: kbdhid
+| | | | Driver: kbdhid.sys, 3/12/2019 08:29:46, 44544 bytes
+| | | | Driver: kbdclass.sys, 9/15/2018 07:28:19, 67896 bytes
 
 ----------------
 Gameport Devices
@@ -424,16 +424,22 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 179.2 GB
+ Free Space: 211.4 GB
 Total Space: 487.4 GB
 File System: NTFS
       Model: MTFDDAK512MBF-1AN1ZABHA
 
       Drive: D:
- Free Space: 1903.9 GB
+ Free Space: 1898.0 GB
 Total Space: 1907.7 GB
 File System: NTFS
       Model: ST2000DM001-1ER164
+
+      Drive: F:
+ Free Space: 566.6 GB
+Total Space: 953.9 GB
+File System: NTFS
+      Model: Seagate M3 SCSI Disk Device
 
       Drive: E:
       Model: hp BDRW   UJ272
@@ -468,7 +474,7 @@ Device ID: PCI\VEN_8086&DEV_8D02&SUBSYS_212A103C&REV_05\3&11583659&0&FA
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #2 - 8D12
 Device ID: PCI\VEN_8086&DEV_8D12&SUBSYS_212A103C&REV_D5\3&11583659&0&E1
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:41:56, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DMI2 - 2F00
 Device ID: PCI\VEN_8086&DEV_2F00&SUBSYS_212A103C&REV_02\3&11583659&0&00
@@ -476,7 +482,7 @@ Device ID: PCI\VEN_8086&DEV_2F00&SUBSYS_212A103C&REV_02\3&11583659&0&00
 
      Name: Intel(R) C610 series/X99 chipset LPC Controller - 8D44
 Device ID: PCI\VEN_8086&DEV_8D44&SUBSYS_212A103C&REV_05\3&11583659&0&F8
-   Driver: C:\WINDOWS\system32\DRIVERS\msisadrv.sys, 10.00.17763.0771 (English), 10/23/2019 07:39:49, 18744 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\msisadrv.sys, 10.00.17763.0771 (English), 10/23/2019 07:41:56, 18744 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring - 2F36
 Device ID: PCI\VEN_8086&DEV_2F36&SUBSYS_2F368086&REV_02\3&103A9D54&0&59
@@ -496,7 +502,7 @@ Device ID: PCI\VEN_8086&DEV_2F30&SUBSYS_2F308086&REV_02\3&103A9D54&0&91
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 1 - 2F02
 Device ID: PCI\VEN_8086&DEV_2F02&SUBSYS_00008086&REV_02\3&11583659&0&08
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:41:56, 421176 bytes
 
      Name: Intel(R) C610 series/X99 chipset SMBus Controller - 8D22
 Device ID: PCI\VEN_8086&DEV_8D22&SUBSYS_212A103C&REV_05\3&11583659&0&FB
@@ -508,7 +514,7 @@ Device ID: PCI\VEN_8086&DEV_2F81&SUBSYS_2F818086&REV_02\3&103A9D54&0&58
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #5 - 8D18
 Device ID: PCI\VEN_8086&DEV_8D18&SUBSYS_212A103C&REV_D5\3&11583659&0&E4
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:41:56, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 System Address Decoder & Broadcast Registers - 2FFE
 Device ID: PCI\VEN_8086&DEV_2FFE&SUBSYS_2FE08086&REV_02\3&103A9D54&0&7E
@@ -528,7 +534,7 @@ Device ID: PCI\VEN_8086&DEV_2FF9&SUBSYS_00000000&REV_02\3&103A9D54&0&79
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #1 - 8D10
 Device ID: PCI\VEN_8086&DEV_8D10&SUBSYS_212A103C&REV_D5\3&11583659&0&E0
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:41:56, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 RAS Control Status and Global Errors - 2F2A
 Device ID: PCI\VEN_8086&DEV_2F2A&SUBSYS_00000000&REV_02\3&11583659&0&2A
@@ -572,7 +578,7 @@ Device ID: PCI\VEN_8086&DEV_2F1F&SUBSYS_2F1F8086&REV_02\3&103A9D54&0&87
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 3 - 2F08
 Device ID: PCI\VEN_8086&DEV_2F08&SUBSYS_00008086&REV_02\3&11583659&0&18
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:41:56, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 ERROR Registers - 2FB7
 Device ID: PCI\VEN_8086&DEV_2FB7&SUBSYS_2FB78086&REV_02\3&103A9D54&0&AB
@@ -597,7 +603,7 @@ Device ID: PCI\VEN_8086&DEV_2FB3&SUBSYS_2FB38086&REV_02\3&103A9D54&0&A3
 
      Name: PCI-to-PCI Bridge
 Device ID: PCI\VEN_1283&DEV_8893&SUBSYS_212A103C&REV_52\4&2D64E983&0&00E3
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:41:56, 421176 bytes
 
      Name: Intel(R) C610 series/X99 chipset SPSR - 8D7C
 Device ID: PCI\VEN_8086&DEV_8D7C&SUBSYS_212A103C&REV_05\3&11583659&0&88
@@ -710,7 +716,7 @@ Device ID: PCI\VEN_8086&DEV_2F68&SUBSYS_00000000&REV_02\3&103A9D54&0&B0
 
      Name: Intel(R) C610 series/X99 chipset PCI Express Root Port #4 - 8D16
 Device ID: PCI\VEN_8086&DEV_8D16&SUBSYS_212A103C&REV_D5\3&11583659&0&E3
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:41:56, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 System Address Decoder & Broadcast Registers - 2FFC
 Device ID: PCI\VEN_8086&DEV_2FFC&SUBSYS_2FE08086&REV_02\3&103A9D54&0&7C
@@ -824,7 +830,7 @@ Device ID: PCI\VEN_8086&DEV_2FB4&SUBSYS_2FB48086&REV_02\3&103A9D54&0&A8
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 PCI Express Root Port 2 - 2F04
 Device ID: PCI\VEN_8086&DEV_2F04&SUBSYS_00008086&REV_02\3&11583659&0&10
-   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:39:50, 421176 bytes
+   Driver: C:\WINDOWS\system32\DRIVERS\pci.sys, 10.00.17763.0802 (English), 10/23/2019 07:41:56, 421176 bytes
 
      Name: Intel(R) Xeon(R) E7 v3/Xeon(R) E5 v3/Core i7 DDRIO (VMSE) 2 & 3 - 2FB9
 Device ID: PCI\VEN_8086&DEV_2FB9&SUBSYS_00000000&REV_02\3&103A9D54&0&BD
@@ -1093,8 +1099,8 @@ Video Decoders:
   MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.17763.0001
   Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject, 0x1, mp43decd.dll, 10.00.17763.0001
   Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.17763.0001
-  VP9VideoExtensionDecoder
   HEIFImageExtension
+  VP9VideoExtensionDecoder
   WebpImageExtension
 Video Encoders:
   NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264.dll, 23.21.0013.9135
@@ -1104,8 +1110,8 @@ Video Encoders:
   H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.17763.0001
   WMVideo9 Encoder MFT, CLSID_CWMV9EncMediaObject, 0x1, wmvencod.dll, 10.00.17763.0001
   Microsoft MPEG-2 Video Encoder MFT, {E6335F02-80B7-4DC4-ADFA-DFE7210D20D5}, 0x2, msmpeg2enc.dll, 10.00.17763.0001
-  VP9VideoExtensionEncoder
   HEIFImageExtension
+  VP9VideoExtensionEncoder
 Video Effects:
   Frame Rate Converter, CLSID_CFrameRateConvertDmo, 0x1, mfvdsp.dll, 10.00.17763.0001
   Resizer MFT, CLSID_CResizerDMO, 0x1, vidreszr.dll, 10.00.17763.0001
@@ -1455,17 +1461,17 @@ P10:
 
 
 +++ WER2 +++:
-Fault bucket , type 0
-Event Name: POFContextAppCrash
+Fault bucket 2206303975734112542, type 5
+Event Name: RADAR_PRE_LEAK_64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Microsoft.Windows.Photos_2019.19071.17920.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 2019.19071.17920.0
-P4: 0x802b000a
-P5: 38ef662e47b3971c561da11a2dde2855
+P1: RustClient.exe
+P2: 2019.3.0.51204
+P3: 10.0.17763.2.0.0
+P4: 
+P5: 
 P6: 
 P7: 
 P8: 
@@ -1493,6 +1499,63 @@ P10:
 
 
 +++ WER4 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2019.19071.17920.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2019.19071.17920.0
+P4: 0x802b000a
+P5: 38ef662e47b3971c561da11a2dde2855
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER5 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2019.19071.17920.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2019.19071.17920.0
+P4: 0x802b000a
+P5: 38ef662e47b3971c561da11a2dde2855
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER6 +++:
+Fault bucket , type 0
+Event Name: POFContextAppCrash
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Microsoft.Windows.Photos_2019.19071.17920.0_x64__8wekyb3d8bbwe
+P2: praid:App
+P3: 2019.19071.17920.0
+P4: 0x802b000a
+P5: 38ef662e47b3971c561da11a2dde2855
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER7 +++:
 Fault bucket 1804578040102139752, type 5
 Event Name: MoAppCrash
 Response: Not available
@@ -1511,98 +1574,41 @@ P9: 000000000003629a
 P10: 
 
 
-+++ WER5 +++:
-Fault bucket 1440736231448813468, type 5
-Event Name: WindowsWcpOtherFailure3
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 10.0.17763.793:1
-P2: inc\auto_hive.h
-P3: Windows::Rtl::AutoHive::Unload
-P4: 358
-P5: c0000121
-P6: 0xe9d3cf6b
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER6 +++:
-Fault bucket , type 0
-Event Name: WindowsWcpOtherFailure3
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 10.0.17763.793:1
-P2: inc\auto_hive.h
-P3: Windows::Rtl::AutoHive::Unload
-P4: 358
-P5: c0000121
-P6: 0xe9d3cf6b
-P7: 
-P8: 
-P9: 
-P10: 
-
-
-+++ WER7 +++:
-Fault bucket , type 0
-Event Name: WindowsWcpOtherFailure3
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 10.0.17763.793:1
-P2: inc\auto_hive.h
-P3: Windows::Rtl::AutoHive::Unload
-P4: 358
-P5: c0000121
-P6: 0xe9d3cf6b
-P7: 
-P8: 
-P9: 
-P10: 
-
-
 +++ WER8 +++:
-Fault bucket , type 0
-Event Name: POFContextAppCrash
+Fault bucket 1446817816072018848, type 5
+Event Name: BEX
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Microsoft.Windows.Photos_2019.19071.17920.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 2019.19071.17920.0
-P4: 0x802b000a
-P5: 38ef662e47b3971c561da11a2dde2855
-P6: 
-P7: 
-P8: 
-P9: 
+P1: GoogleUpdate.exe
+P2: 1.3.34.7
+P3: 5c901868
+P4: StackHash_2beb
+P5: 0.0.0.0
+P6: 00000000
+P7: PCH_8B_FROM_ntdll+0x00070A5C
+P8: c0000005
+P9: 00000008
 P10: 
 
 
 +++ WER9 +++:
-Fault bucket , type 0
-Event Name: POFContextAppCrash
+Fault bucket 1446817816072018848, type 5
+Event Name: BEX
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Microsoft.Windows.Photos_2019.19071.17920.0_x64__8wekyb3d8bbwe
-P2: praid:App
-P3: 2019.19071.17920.0
-P4: 0x802b000a
-P5: 38ef662e47b3971c561da11a2dde2855
-P6: 
-P7: 
-P8: 
-P9: 
+P1: GoogleUpdate.exe
+P2: 1.3.34.7
+P3: 5c901868
+P4: StackHash_2beb
+P5: 0.0.0.0
+P6: 00000000
+P7: PCH_8B_FROM_ntdll+0x00070A5C
+P8: c0000005
+P9: 00000008
 P10: 
 
 
